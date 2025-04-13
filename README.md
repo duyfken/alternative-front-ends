@@ -259,6 +259,14 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/element-hq/element-web/blob/develop/docs/install.md)
 
+- **Extera**
+
+   - A Matrix client with some improvements and new features, based on Cinny.
+   - [Official Instance](https://app.extera.xyz/) | [Repo](https://github.com/officialdakari/Extera)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable
+
 - **FluffyChat**
 
    - FluffyChat is an open source, nonprofit and cute Matrix client written in Flutter. The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
@@ -283,13 +291,13 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/SchildiChat/schildichat-desktop#building-schildichat-webdesktop)
 
-- **Syphon**
+- **Tammy**
 
-   - Syphon aims to be built on the foundations of privacy, branding, and user experience in an effort to pull others away from proprietary chat platforms to the Matrix protocol.
-   - [Official Instance](https://app.schildi.chat/) | [Repo](https://github.com/SchildiChat/schildichat-desktop)
+   - Tammy is the fast, simple, and secure Matrix-based messenger you've been waiting for. With end-to-end encryption, your conversations are fully private and safe. Tammy's streamlined design ensures fast messaging and smooth performance.
+   - [Official Instance](https://app.tammy.connect2x.de/) | [Repo](https://gitlab.com/connect2x/tammy)
    - Public Instances (N/A)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/SchildiChat/schildichat-desktop#building-schildichat-webdesktop)
+   - [x] Self-Hostable | [Guide](https://gitlab.com/connect2x/tammy#run-locally)
 
 
 ### Medium
@@ -423,16 +431,16 @@ ___
    - [x] Decentralised Options | [Onion](https://searx.space)
 
 
-### StackOverflow
+### SoundCloud
 
-- **AnonymousOverflow**
+- **soundcloak**
 
-   - View StackOverflow threads without the cluttered interface and exposing your IP address, browsing habits and other browser fingerprint data to StackOverflow.
-   - [Official Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
-   - [Public Instances](https://aohub.httpjames.space/)
+   - Frontend for SoundCloud, designed to preserve your privacy. All requests to SoundCloud API are done server-side, without logging into an account. Media (tracks, images) can also be proxied if enabled by instance maintainer. No unnecessary requests or telemetry tracking your every move.
+   - [Official Instance](https://sc.maid.zone/) | [Repo](https://git.maid.zone/stuff/soundcloak)
+   - [Public Instances](https://maid.zone/soundcloak/instances.html)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
-   - [x] Decentralised Options | [I2P](https://aohub.httpjames.space/) | [Onion](https://aohub.httpjames.space/)
+   - [x] Self-Hostable | [Guide](https://git.maid.zone/stuff/soundcloak/src/branch/main/docs/INSTANCE_GUIDE.md)
+   - [x] Decentralised Options | [Onion](https://maid.zone/soundcloak/instances.html)
 
 
 ### Tiktok
@@ -464,8 +472,8 @@ ___
    - [Official Instance](https://mozhi.aryak.me/) | [Repo](https://codeberg.org/aryak/mozhi)
    - [Public Instances](https://codeberg.org/aryak/mozhi#instances)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
-   - [x] Decentralised Options | [I2P](https://codeberg.org/aryak/mozhi#instances)  | [Onion](https://codeberg.org/aryak/mozhi#instances)
+   - [x] Self-Hostable | [Guide](https://codeberg.org/aryak/mozhi#installing)
+   - [x] Decentralised Options | [Onion](https://codeberg.org/aryak/mozhi#instances)
 
 - **Lingva**
 
@@ -583,12 +591,11 @@ ___
 
 - **BeatBump**
 
-   - Privacy-friendly YouTube Music front-end built with Svelte. Supports device sync.
-   - [Official Instance](https://beatbump.io) | [Repo](https://github.com/snuffyDev/Beatbump)
-   - [Public Instances](https://github.com/snuffyDev/Beatbump#instances)
+   - Privacy-friendly YouTube Music front-end built with Svelte. All data is stored locally on your device. Data synchronization is done using PeerJS, which uses WebRTC for a Peer-to-Peer connection between browsers.
+   - Official Instance (N/A) | [Repo](https://github.com/giwty/Beatbump)
+   - Public Instances (N/A)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/snuffyDev/Beatbump?tab=readme-ov-file#docker)
-   - [x] Decentralised Options | [I2P](http://vern6inmbjzqpecx4kpkq5sln3cqqrfuxfzh4au3tpxbsfbwbnta.b32.i2p/) | [Onion](http://bb.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+   - [x] Self-Hostable | [Guide](https://github.com/giwty/Beatbump#running-beatbump)
 
 - **Hyperpipe**
 
@@ -661,6 +668,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Urban Dictionary is a trademark of Urban Dictionary LLC. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Urban Dictionary is a trademark of Urban Dictionary LLC. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
