@@ -171,6 +171,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/Milkshiift/GoofCord#ready-to-dive-in)
    - [x] Linux, Mac and Windows
 
+- **Legcord**
+
+   - Take control of your Discord experience with GoofCord, the highly configurable and privacy-focused Discord client. Based on ArmCord.
+   - [Official Website](https://legcord.app/) | [Repo](https://github.com/Legcord/Legcord)
+   - [x] Open Source
+   - [x] [Download for free](https://legcord.app/download)
+   - [x] Linux, Mac and Windows
+
 - **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Qtcord**
