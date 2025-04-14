@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -45,6 +45,16 @@ ___
    - [x] Android
 
    ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
+
+- **SoundCrowd**
+
+   - SoundCrowd is a free, open-source and lightweight music player for Android in modern material design, specialised for playing long music tracks (DJ mixes, live sets, audio books). It features the generation of waveforms that visualise your music tracks during playback and can be used for precise seeking through gestures.
+   - [Official Website](https://soundcrowd.github.io/) | [Repo](https://github.com/soundcrowd/soundcrowd)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/soundcrowd/soundcrowd#download)
+   - [x] Android
+
+   ⓘ SoundCrowd currently has official online streaming plugins for SoundCloud, Youtube, Spotify, Beatport and Tidal.
 
 
 ### Discord
@@ -587,9 +597,18 @@ ___
    - [x] Android
 
 
+### SoundCloud
+
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
+- **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
+
+
 ### Spotify
 
 - **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
+- **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Spotube**
 
@@ -852,6 +871,22 @@ ___
    - [x] [Download for free](https://github.com/z-huang/InnerTune/wiki/App-Versions)
    - [x] Android
 
+- **Kreate**
+
+   - A multilingual YouTube Music frontend for Android, that prioritises performance. Based on RiMusic (which has been discontinued).
+   - [Official Website](https://kreate.knighthat.me/) | [Repo](https://github.com/knighthat/Kreate)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/knighthat/Kreate#-installation)
+   - [x] Android
+
+- **Metrolist**
+
+   - A Material 3 YouTube Music client for Android.
+   - Official Website (N/A) | [Repo](https://github.com/mostafaalagamy/Metrolist)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/mostafaalagamy/Metrolist#download-now)
+   - [x] Android
+
 - **Namida**
 
    - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter.
@@ -868,14 +903,6 @@ ___
    - [x] [Download for free](https://github.com/DD3Boh/OuterTune#outertune)
    - [x] Android
 
-- **RiMusic**
-
-   - RiMusic is a multilingual Android application for streaming music from YouTube Music. It began as an extension of ViMusic, then acquired its own identity. It allows the user to customise it at will.
-   - [Official Website](https://rimusic.xyz/) | [Repo](https://github.com/fast4x/RiMusic)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/fast4x/RiMusic#-installation)
-   - [x] Android
-
 - **SimpMusic**
 
    - A FOSS YouTube Music client for Android with many features from Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike.
@@ -883,6 +910,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/maxrave-dev/SimpMusic#simpmusic)
    - [x] Android
+
+- **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
 
 ___
 
@@ -936,6 +965,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Discord is a trademark of Discord Inc. Facebook is a trademark of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Discord is a trademark of Discord Inc. Facebook is a trademark of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
