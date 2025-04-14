@@ -57,7 +57,7 @@ ___
    - Aliucord is a customisable Discord client that offers a wide range of features and functionality beyond what's available in the standard Discord client. With Aliucord, users can customise their Discord experience to suit their needs and preferences, from changing the look and feel of the app to adding new features and integrations.
    - [Official Website](https://aliucord.com/) | [Repo](https://github.com/Aliucord/Aliucord)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/uowuo/abaddon#building-manually-recommended-if-not-on-windows)
+   - [x] [Download for free](https://github.com/Aliucord/Aliucord#-installation)
    - [x] Android
 
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
@@ -126,6 +126,14 @@ ___
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/us/app/gitblur-best-gitlab-app/id1616631675)
    - [x] iOS
+
+- **GitNex**
+
+   - GitNex is a free/paid, open-source Android client for Git repository management tool Forgejo and Gitea.
+   - [Official Website](https://gitnex.com/) | [Repo](https://codeberg.org/gitnex/GitNex)
+   - [x] Open Source
+   - [x] [Download for free](https://codeberg.org/gitnex/GitNex#downloads)
+   - [x] Android
 
 - **LabCoat**
 
@@ -300,14 +308,6 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/LemmyNet/jerboa#installation--releases)
    - [x] Android
-
-- **Lunar**
-
-   - Lunar is an iOS app that serves as a client for Lemmy and Kbin, the Open Source federated alternatives to Reddit.
-   - Official Website (N/A) | [Repo](https://github.com/mani-sh-reddy/Lunar)
-   - [x] Open Source
-   - [x] [Download for free](https://testflight.apple.com/join/GEFCCQTb)
-   - [x] iOS
 
 - **Memmy**
 
@@ -524,7 +524,7 @@ ___
 
 - **RedReader**
 
-   - A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience. Can be used for free has they have been granted an [exemption for non-commercial accessibility-focused apps](https://old.reddit.com/r/RedReader/comments/145du4j/update_4_redreader_granted_noncommercial/), due to the work that has been done to optimise the app for screen readers, and the app's high level of usage within the blind community.
+   - A Reddit client on Android written in Java. It does not have any ads and it features a clean UI and smooth browsing experience. Can be used for free as they have been granted an [exemption for non-commercial accessibility-focused apps](https://old.reddit.com/r/RedReader/comments/145du4j/update_4_redreader_granted_noncommercial/), due to the work that has been done to optimise the app for screen readers, and the app's high level of usage within the blind community.
    - Official Website (N/A) | [Repo](https://github.com/QuantumBadger/RedReader)
    - [x] Open Source
    - [x] [Download for free](https://github.com/QuantumBadger/RedReader#redreader)
@@ -602,23 +602,7 @@ ___
 
 ### Telegram
 
-- **AyuGram**
-
-   - Just an exteraGram based client with ToS breaking features in mind.
-   - Official Website (N/A) | [Repo](https://github.com/AyuGram/AyuGram4A)
-   - [x] Open Source
-   - [x] [Download for free](https://t.me/ayugram1338)
-   - [x] Android + Linux and Windows
-
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
-
-- **exteraGram**
-
-   - Experimental third-party Telegram client based on official sources.
-   - [Official Website](https://exteragram.app/) | [Repo](https://github.com/exteraSquad/exteraGram)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/exteraSquad/exteraGram/releases)
-   - [x] Android
 
 - **Forkgram**
 
@@ -698,6 +682,14 @@ ___
 
 ### Twitch
 
+- **DankChat**
+
+   - Chat in multiple channels at once, regardless if the streamers are live or offline, with FrankerFaceZ, BTTV and 7TV emote support built-in!
+   - Official Website (N/A) | [Repo](https://github.com/flex3r/dankchat)
+   - [x] Open Source
+   - [x] [Download for free]()
+   - [x] Android
+
 - **Frosty**
 
    - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. 
@@ -747,6 +739,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://kiwix.org/en/applications/)
    - [x] Android and iOS + Linux, Mac and Windows
+
+- **WikiReader**
+
+   - A lightweight Android app for reading Wikipedia articles distraction-free. Supports light mode, dark mode, Material You dynamic colors and 300+ Wikipedia languages.
+   - Official Website (N/A) | [Repo](https://github.com/nsh07/WikiReader)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/nsh07/WikiReader)
+   - [x] Android
 
 
 ### YouTube
