@@ -29,7 +29,7 @@ ___
 - **Beeper**
 
    - Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on up to 14 different chat networks, all from a single app. Uses open source Matrix network bridges.
-   - [Official Website](https://www.beeper.com/) | [Repo](N/A)
+   - [Official Website](https://www.beeper.com/) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://www.beeper.com/download)
    - [x] Android and iOS + Linux, Mac and Windows
@@ -55,6 +55,16 @@ ___
    - [x] Android
 
    ⓘ SoundCrowd currently has official online streaming plugins for SoundCloud, Youtube, Spotify, Beatport and Tidal.
+
+- **Symfonium** :moneybag:
+
+   - Symfonium is a simple, modern and beautiful music player that lets you enjoy all your music from different sources in one place. Whether you have songs on your local device, cloud storage, or media servers, you can easily access them with Symfonium and play them on your device or cast them to Chromecast, UPnP or DLNA devices.
+   - [Official Website](https://symfonium.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Trial for free](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
+   - [x] Android
+
+   ⓘ Symfonium currently supports playing media from Plex, Emby, Jellyfin, Subsonic, OpenSubsonic, Kodi, Samba (SMB v2/v3), WebDAV servers and supported Cloud providers (Google Drive, OneDrive, DropBox, Box, pCloud).
 
 
 ### Discord
@@ -252,6 +262,14 @@ ___
    - [x] [Download for free](https://github.com/leinelissen/jellyfin-audio-player#getting-started)
    - [x] Android and iOS
 
+- **Fladder**
+
+   - A Simple Jellyfin Frontend built on top of Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/DonutWare/Fladder)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/DonutWare/Fladder#download)
+   - [x] Android + Linux, Mac and Windows
+
 - **Gelli**
 
    - This is a native music player for Android devices that connects to Jellyfin media servers and is based on [Phonograph](https://github.com/kabouzeid/Phonograph).
@@ -276,6 +294,14 @@ ___
    - [x] [Download for free](https://github.com/JellyBookOrg/JellyBook#zap-installation)
    - [x] Android and iOS
 
+- **Manet**
+
+   - Stream your music library from Jellyfin to your iOS and macOS devices with ease.
+   - [Official Website](https://tilosoftware.io/manet/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/manet-music/id6470928235?platform=iphone)
+   - [x] iOS + Mac
+
 - **Streamyfin**
 
    - A simple and user-friendly Jellyfin client built with Expo.
@@ -283,6 +309,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/fredrikburmester/streamyfin#get-it-now)
    - [x] Android and iOS
+
+- **Symfonium** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Yatse** 💰
 
