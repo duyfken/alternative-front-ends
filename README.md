@@ -489,13 +489,32 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/jmshrv/finamp/tags)
    - [x] Linux + Android
 
+- **Fladder**
+
+   - A Simple Jellyfin Frontend built on top of Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/DonutWare/Fladder)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/DonutWare/Fladder#download)
+   - [x] Linux, Mac and Windows + Android
+
 - **Infuse**
 
-   - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
+   - Ignite your video content with Infuse - the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
    - [Official Website](https://firecore.com/infuse) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
    - [x] Apple Mac + iOS + tvOS
+
+- **Manet** :moneybag:
+
+   - Stream your music library from Jellyfin to your iOS and macOS devices with ease.
+   - [Official Website](https://tilosoftware.io/manet/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/us/app/manet-music/id6470928235?platform=mac)
+   - [x] Mac + iOS
+
+   ⓘ Manet on MacOS requires the purchase of Manet+ for USD$9.99
+
 
 - **Qcm**
 
