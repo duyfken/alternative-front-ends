@@ -502,7 +502,7 @@ Based on ArmCord.
    - Ignite your video content with Infuse - the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
    - [Official Website](https://firecore.com/infuse) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] [Download for free](https://apps.apple.com/app/id1136220934)
    - [x] Apple Mac + iOS + tvOS
 
 - **Manet** :moneybag:
@@ -510,7 +510,7 @@ Based on ArmCord.
    - Stream your music library from Jellyfin to your iOS and macOS devices with ease.
    - [Official Website](https://tilosoftware.io/manet/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/manet-music/id6470928235?platform=mac)
+   - [x] [Download for free](https://apps.apple.com/app/id6470928235?platform=mac)
    - [x] Mac + iOS
 
    ⓘ Manet on MacOS requires the purchase of Manet+ for USD$9.99
@@ -564,7 +564,39 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/terhechte/Ebou#signing--releasing)
    - [x] Linux and Mac
 
+- **Fedistar**
+
+   - Multi-column Fediverse client for desktop.
+   - [Official Website](https://fedistar.net/) | [Repo](https://github.com/h3poteto/fedistar)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/h3poteto/fedistar#install)
+   - [x] Linux, Mac and Windows
+
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Ice Cubes** :moneybag:
+
+   - Ice Cubes is an Open Source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
+   - Official Website (N/A) | [Repo](https://github.com/Dimillian/IceCubesApp)
+   - [x] Open Source
+   - [x] [Trial for free](https://apps.apple.com/app/id6444915884)
+   - [x] Mac + iOS and Apple visionOS (Vision Pro headset)
+
+- **Ivory** :moneybag:
+
+   - Ivory for Mastodon is a new app developed by Tapbots that serves as a client for the Mastodon social network, designed to provide a user-friendly experience similar to their previous Twitter app, Tweetbot.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Trial for free](https://apps.apple.com/app/id6444602274)
+   - [x] Mac + iOS
+
+- **Mona**
+
+   - Mona is a highly customisable Mastodon app with VoiceOver optimisation and native design.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id1659154653)
+   - [x] Mac + iOS
 
 - **Sengi**
 
@@ -589,6 +621,14 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/ihabunek/toot/releases)
    - [x] Linux
+
+- **TootRain**
+
+   - TootRain displays Toots on your Mastodon, Pleroma, Misskey timeline, on your screens, as comments sliding from right to left.You can reply, favourite, repost and bookmark Toots as well.
+   - Official Website (N/A) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id1579538917)
+   - [x] Mac
 
 - **Tuba**
 
@@ -1213,7 +1253,7 @@ Based on ArmCord.
    - ZenTube is a decluttered and organised online video client. It is made for people who want to gain back control over doom-scrolling behaviour.
    - [Official Website](https://intenca.com/zentube/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download](https://apps.apple.com/au/app/zentube-decluttered/id6480412927)
+   - [x] [Download](https://apps.apple.com/app/id6480412927)
    - [x] Mac + iOS
 
 
