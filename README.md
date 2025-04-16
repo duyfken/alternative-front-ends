@@ -144,7 +144,7 @@ ___
    - GitBlur helps you to manage your GitLab projects anywhere at any time, support gitlab.com and self-managed GitLab. GitBlur reinvents the mobile device gitlab experience.
    - [Official Website](https://gitblur.com/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/gitblur-best-gitlab-app/id1616631675)
+   - [x] [Download for free](https://apps.apple.com/app/id1616631675)
    - [x] iOS
 
 - **GitNex**
@@ -176,7 +176,7 @@ ___
    - Update your repositories from anywhere. PolyGit is a Git client designed for simplicity and ease of use. Works with GitHub, GitLab and Bitbucket.
    - [Official Website](https://www.polygitapp.com/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/polygit-git-client/id1508942822)
+   - [x] [Download for free](https://apps.apple.com/app/id1508942822)
    - [x] iOS
 
 - **Working Copy**
@@ -184,7 +184,7 @@ ___
    - Access Git repositories on the go. Clone, edit, commit and push while allowing other apps access to repositories. Works with GitHub, GitLab, Bitbucket and Gitea.
    - [Official Website](https://workingcopyapp.com/) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/working-copy-git-client/id896694807)
+   - [x] [Download for free](https://apps.apple.com/app/id896694807)
    - [x] iOS
 
 
@@ -283,7 +283,7 @@ ___
    - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
    - [Official Website](https://firecore.com/infuse) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] [Download for free](https://apps.apple.com/app/id1136220934)
    - [x] Apple iOS + Mac + tvOS
 
 - **JellyBook**
@@ -352,7 +352,7 @@ ___
    - An Apollo inspired Open Source iOS and Android client for Lemmy built with React-Native.
    - Official Website (N/A) | [Repo](https://github.com/Memmy-App/memmy)
    - [x] Open Source
-   - [x] [Download for free](https://apps.apple.com/us/app/memmy-for-lemmy/id6450204299?platform=iphone)
+   - [x] [Download for free](https://apps.apple.com/app/id6450204299?platform=iphone)
    - [x] iOS
 
 - **mlem**
@@ -360,7 +360,7 @@ ___
    - Mlem is a client for Lemmy - a Reddit-esque, Open Source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers.
    - Official Website (N/A) | [Repo](https://github.com/mlemgroup/mlem)
    - [x] Open Source
-   - [x] [Download for free](https://apps.apple.com/gb/app/mlem-for-lemmy/id6450543782?platform=iphone)
+   - [x] [Download for free](https://apps.apple.com/app/id6450543782?platform=iphone)
    - [x] iOS
 
 - **Thunder**
@@ -381,6 +381,14 @@ ___
 
 
 ### Mastodon
+
+- **Bubble**
+
+   - Bubble is a very simple native lightweight Mastodon client, that is meant to look soft and easy-to-use. It integrates perfectly with your Mastodon account, and matches your vibe, while having Mastodon-only features.
+   - [Official Website](https://lumaa.fr/bubble) | [Repo](https://github.com/lumaa-dev/BubbleApp)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/id6477757490)
+   - [x] iOS
 
 - **Dhaaga**
 
@@ -406,13 +414,21 @@ ___
    - [x] [Download for free](https://github.com/allentown521/FocusMastodon#focusmastodon)
    - [x] Android
 
-- **IceCubesApp**
+- **Ice Cubes** :moneybag:
 
-   - IceCubesApp is an Open Source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
+   - Ice Cubes is an Open Source application for accessing the decentralised social network Mastodon! It's built entirely in SwiftUI, making it fast, lightweight, and easy to use.
    - Official Website (N/A) | [Repo](https://github.com/Dimillian/IceCubesApp)
    - [x] Open Source
-   - [x] [Download for free](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884)
-   - [x] iOS
+   - [x] [Trial for free](https://apps.apple.com/app/id6444915884)
+   - [x] iOS and Apple visionOS (Vision Pro headset) + Mac
+
+- **Ivory** :moneybag:
+
+   - Ivory for Mastodon is a new app developed by Tapbots that serves as a client for the Mastodon social network, designed to provide a user-friendly experience similar to their previous Twitter app, Tweetbot.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Trial for free](https://apps.apple.com/app/id6444602274)
+   - [x] iOS + Mac
 
 - **Mastify**
 
@@ -430,6 +446,14 @@ ___
    - [x] [Download for free](https://github.com/sk22/megalodon#megalodon)
    - [x] Android
 
+- **Mona**
+
+   - Mona is a highly customisable Mastodon app with VoiceOver optimisation and native design.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id1659154653)
+   - [x] iOS + Mac
+
 - **Moshidon**
 
    - A fast, highly customisable, up-to-date fork of [megalodon](https://github.com/sk22/megalodon) adding important features such as a fully federated timeline, unlisted posting, drafts, scheduled posts, bookmarks, and alt text warnings.
@@ -446,12 +470,44 @@ ___
    - [x] [Download for free](https://github.com/pachli/pachli-android#pachli)
    - [x] Android
 
+- **Pipilo**
+
+   - Pipilo is a Fediverse/Mastodon iOS app with a horizontally scrolling timeline. It offers a clean, distraction-free way to engage with content on the Fediverse.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id1584544719)
+   - [x] iOS
+
+- **Radiant**
+
+   - Radiant is a powerful and flexible Mastodon client for your iPhone that's designed from the ground up to be easy to use while still offering the features you need … and some new ones that might surprise you!
+   - [Official Website](https://radiant.social/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id6444323022)
+   - [x] iOS
+
+- **Rodent**
+
+   - Rodent is an Android client for Mastodon. Rodent supports many of the common Mastodon features and adds a few innovative twists that differentiate it from other Mastodon clients.
+   - [Official Website](https://mastodonrodent.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://play.google.com/store/apps/details?id=social.rodent)
+   - [x] Android
+
 - **Shitter**
 
    - Lightweight Android app for Mastodon.
    - Official Website (N/A) | [Repo](https://github.com/nuclearfog/Shitter)
    - [x] Open Source
    - [x] [Download for free](https://github.com/nuclearfog/Shitter#download)
+   - [x] Android
+
+- **SubwayTooter**
+
+   - Mastodon client app for Android phone/tablet.
+   - Official Website (N/A) | [Repo](https://github.com/tateisu/SubwayTooter)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/tateisu/SubwayTooter#install)
    - [x] Android
 
 - **Tokodon**
@@ -462,6 +518,14 @@ ___
    - [x] [Download for free](https://invent.kde.org/network/tokodon#get-it)
    - [x] Android and Linux
 
+- **trunks**
+
+   - trunks is the best way to experience Mastodon any of your devices. With its rich features and intuitive interface, trunks makes it easy to stay connected with your friends, follow your favorite topics, and discover new content.
+   - [Official Website](https://trunks.social/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://trunks.social/)
+   - [x] Android and iOS + Web
+
 - **Tusky**
 
    - Tusky is a beautiful Android client for Mastodon.
@@ -469,6 +533,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/tuskyapp/Tusky#tusky)
    - [x] Android
+
+- **Woolly**
+
+   - Woolly is a fast and customisable Mastodon client.
+   - [Official Website](https://mastodon.social/@woollyapp) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/id6444360628)
+   - [x] iOS
 
 
 ### Matrix
@@ -541,7 +613,7 @@ ___
    - lurkur for reddit is an unofficial client for reddit, aiming to provide you a more personalised and ad-free experience. [Accounts (logging in) is disabled and browsing is anonymous](https://old.reddit.com/r/lurkurapp/comments/186yuos/how_does_this_work/kcd3zl0/).
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/gb/app/lurkur-for-reddit/id6470203216)
+   - [x] [Download for free](https://apps.apple.com/app/id6470203216)
    - [x] iOS
 
 - **Narwhal 2 for Reddit** 💰
@@ -549,7 +621,7 @@ ___
    - Narwhal 2 is the most customisable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. Requires using an Apple App Store subscription to get any data from Reddit API.
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/gb/app/narwhal-2-for-reddit/id845422455)
+   - [x] [Download for free](https://apps.apple.com/app/id845422455)
    - [x] iOS
 
 - **Now for Reddit** 💰
@@ -829,7 +901,7 @@ ___
    - Watch your favorite YouTube videos in a gorgeous and powerful visionOS UI, with support for playback quality, speed, and even 360° and 180° video!
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download](https://apps.apple.com/us/app/juno-for-youtube/id6476961640)
+   - [x] [Download](https://apps.apple.com/app/id6476961640)
    - [x] Apple visionOS (Vision Pro headset)
 
 - **LibreTube**
@@ -877,7 +949,7 @@ ___
    - YouTube on your wrist (Apple Watch).
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/gb/app/watchtube/id1599884909)
+   - [x] [Download for free](https://apps.apple.com/app/id1599884909)
    - [x] Apple Watch
 
 - **Yattee**
