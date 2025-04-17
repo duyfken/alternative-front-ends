@@ -160,6 +160,14 @@ ___
    - [x] [Download for free](https://github.com/SpikeHD/Dorion#download)
    - [x] Linux, Mac and Windows
 
+- **Equibop**
+
+   - Equibop is a fork of Vesktop that aims to improve performance and linux support for Discord. It has features such as screenshare, tray, keybinds, splash animations and more.
+   - [Official Website](https://equicord.org/) | [Repo](https://github.com/Equicord/Equibop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Equicord/Equicord#installing--uninstalling)
+   - [x] Linux, Mac and Windows
+
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
 - **GoofCord**
@@ -1084,6 +1092,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/dialect-app/dialect#installation)
    - [x] Linux
 
+- **LocalTranslate**
+
+   - LocalTranslate is an offline translation application that uses Firefox's neural translation models (from mozilla/firefox-translations-models) to perform high-quality translations locally on your device.
+   - [Official Website](https://terslang.github.io/LocalTranslate/) | [Repo](https://github.com/terslang/LocalTranslate)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/dev.ters.LocalTranslate)
+   - [x] Linux
+
 - **Pot**
 
    - A cross-platform rust-based translator application, capable of using many different translation engines.
@@ -1138,12 +1154,12 @@ Based on ArmCord.
 
 - **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
-- **WhatsApp for Linux**
+- **WasIstLos**
 
-   - WhatsApp for Linux is an unofficial WhatsApp desktop application written in C++ with the help of gtkmm and WebKitGtk libraries.
-   - Official Website (N/A) | [Repo](https://github.com/eneshecan/whatsapp-for-linux)
+   - WasIstLos is an unofficial WhatsApp desktop application written in C++ with the help of gtkmm and WebKitGtk libraries.
+   - Official Website (N/A) | [Repo](https://github.com/xeco23/WasIstLos)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/eneshecan/whatsapp-for-linux#whatsapp-for-linux)
+   - [x] [Download for free](https://github.com/xeco23/WasIstLos)
    - [x] Linux
 
 - **WhatSie**
