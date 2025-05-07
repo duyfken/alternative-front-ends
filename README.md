@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -92,6 +92,14 @@ ___
 
 
 ### Facebook
+
+- **Nobook**
+
+   - Nobook is a lightweight Android application to browse Facebook. Built with Jetpack Compose and the compose-webview-multiplatform library.
+   - Official Website (N/A) | [Repo](https://github.com/ycngmn/Nobook)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ycngmn/Nobook#-installation)
+   - [x] Android
 
 - **SlimSocial for Facebook**
 
@@ -1065,6 +1073,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Discord is a trademark of Discord Inc. Facebook is a trademark of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Discord is a trademark of Discord Inc. Facebook and Messenger are trademarks of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
