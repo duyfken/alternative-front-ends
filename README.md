@@ -848,6 +848,14 @@ ___
 
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Quacker**
+
+   - Quacker is a more private and clean way to browse Twitter/X. This also includes feed viewing, subscription grouping, offline tweet saving and more! 
+   - Official Website (N/A) | [Repo](https://github.com/TheHCJ/Quacker)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/TheHCJ/Quacker)
+   - [x] Android
+
 - **Squawker**
 
    - An Open Source privacy oriented Twitter/X client for Android.
