@@ -535,8 +535,6 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
    - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
 
-   ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) because of X's/Twitter's actions. The official instance has been discontinued and very few instances still work.
-
 
 ### Urban Dictionary
 
