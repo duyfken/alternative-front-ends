@@ -12,7 +12,7 @@ ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](../../../../duyfken/RedirectorPrivacyAlternatives)**
 ___
 
-Thanks to  **shaedrich** for contributing to the expansion of this list!
+Thanks to  **bg443** and **shaedrich** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
@@ -20,12 +20,22 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
+### Bluesky
+
+- **Skylib**
+
+   - Skylib is a collection of tools to access Bluesky across all platforms. It was inspired by Nitter, Invidious, and libreddit/redlib.
+   - [Official Instance](https://skylib.coffee/) | [Repo](https://codeberg.org/bg443/skylib-backend)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/bg443/skylib-backend#installation)
+
+
 ### Chefkoch
 
 - **gocook** :de:
@@ -666,6 +676,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Urban Dictionary is a trademark of Urban Dictionary LLC. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Urban Dictionary is a trademark of Urban Dictionary LLC. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
