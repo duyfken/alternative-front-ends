@@ -596,14 +596,13 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/giwty/Beatbump#running-beatbump)
 
-- **Hyperpipe**
+- **ytify**
 
-   - A privacy-respecting front-end for YouTube Music, inspired by and built with the help of Piped.
-   - [Official Instance](https://hyperpipe.surge.sh) | [Repo](https://codeberg.org/Hyperpipe/Hyperpipe)
-   - [Public Instances](https://hyperpipe.codeberg.page)
+   - ytify is a simple WebApp, built with vanilla TypeScript for maximum efficiency, that streams only audio from YouTube. It uses Piped as YouTube Data API & Adaptive Streaming Proxy, Invidious for YouTube Data API & Progressive Streaming Proxy, and Cobalt as a YouTube Download API.
+   - Official Instance (N/A) | [Repo](https://github.com/n-ce/ytify)
+   - [Public Instances](https://github.com/n-ce/ytify#usage-)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/Hyperpipe/Hyperpipe#usage)
-   - [x] Decentralised Options | [Onion](https://hyperpipe.codeberg.page)
+   - [x] Self-Hostable | [Guide](https://github.com/n-ce/ytify#development-)
 
 ___
 
