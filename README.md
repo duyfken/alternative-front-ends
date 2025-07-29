@@ -359,7 +359,7 @@ ___
 
 ### Reddit
 
-   ⓘ Most Reddit alternative front-ends will no longer work due to the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Mutiple public instances of Libreddit, in addition to self-hosted instances of Troddit and Troddit+ are mostly functional however it seems.
+   ⓘ Most Reddit alternative front-ends were severely changed by the [2023 Reddit API controversy](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). Multiple public instances of Redlib are mostly functional however it seems.
 
 - **Redlib**
 
@@ -368,27 +368,18 @@ ___
    - [Public Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/redlib-org/redlib#deployment)
+   - [x] Decentralised Option | [Onion](http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion/)
 
 - **Libreddit**
 
    - Privacy-focused fast Reddit front-end without ads, javascript and tracking. All requests are proxied through the server.
-   - Official Instance (N/A) | [Repo](https://github.com/spikecodes/libreddit)
+   - Official Instance (N/A) | [Repo](https://github.com/libreddit/libreddit)
    - [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation)
+   - [x] Self-Hostable | [Guide](https://github.com/libreddit/libreddit#installation)
    - [x] Decentralised Options | [I2P](http://wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p/)  | [Onion](http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion/)
 
    ⓘ The maintainer has [shutdown the official instance and ceased development](https://github.com/libreddit/libreddit/issues/840) due to Reddit's API changes. Development has continued at the previously mentioned Libreddit fork, Redlib.
-
-- **Troddit**
-
-   - A significantly smaller Open Source front-end for Reddit, written in NextJS.
-   - [Official Instance](https://troddit.com/) | [Repo](https://github.com/burhan-syed/troddit)
-   - Public Instances (N/A)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/burhan-syed/troddit#developing)
-
-   ⓘ Troddit uses Javascript and their official instance uses Vercel's [audience analytics](https://nextjs.org/analytics). Connects directly to Reddit without a proxy using Reddit's API.
 
 - **Teddit**
 
