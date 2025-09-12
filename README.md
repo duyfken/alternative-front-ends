@@ -110,14 +110,6 @@ ___
 
    ⓘ Pre-built binary is currently only available for Windows. Linux and Mac binaries must be built from the source code.
 
-- **ArmCord**
-
-   - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
-   - [Official Website](https://armcord.app/) | [Repo](https://github.com/ArmCord/ArmCord)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/ArmCord/ArmCord#packaging-status)
-   - [x] Linux, Mac and Windows
-
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Datcord**
@@ -179,12 +171,12 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/Milkshiift/GoofCord#ready-to-dive-in)
    - [x] Linux, Mac and Windows
 
-- **Legcord**
+- **LegCord**
 
-   - Take control of your Discord experience with GoofCord, the highly configurable and privacy-focused Discord client. Based on ArmCord.
+   - LegCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
    - [Official Website](https://legcord.app/) | [Repo](https://github.com/Legcord/Legcord)
    - [x] Open Source
-   - [x] [Download for free](https://legcord.app/download)
+   - [x] [Download for free](https://github.com/Legcord/Legcord#packaging-status)
    - [x] Linux, Mac and Windows
 
 - **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
@@ -484,10 +476,10 @@ Based on ArmCord.
 - **Feishin**
 
    - A modern self-hosted music player using NodeJS.
-   - Official Website (N/A) | [Repo](https://github.com/dweymouth/supersonic)
+   - Official Website (N/A) | [Repo](https://github.com/jeffvli/feishin)
    - [x] Open Source
    - [x] [Download for free](https://github.com/jeffvli/feishin?tab=readme-ov-file#getting-started)
-   - [x] Linux and Mac
+   - [x] Linux, Mac and Windows
 
 - **Finamp**
 
@@ -590,20 +582,20 @@ Based on ArmCord.
    - [x] [Trial for free](https://apps.apple.com/app/id6444915884)
    - [x] Mac + iOS and Apple visionOS (Vision Pro headset)
 
-- **Ivory** :moneybag:
-
-   - Ivory for Mastodon is a new app developed by Tapbots that serves as a client for the Mastodon social network, designed to provide a user-friendly experience similar to their previous Twitter app, Tweetbot.
-   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
-   - [ ] Closed Source
-   - [x] [Trial for free](https://apps.apple.com/app/id6444602274)
-   - [x] Mac + iOS
-
 - **Mona**
 
    - Mona is a highly customisable Mastodon app with VoiceOver optimisation and native design.
    - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/app/id1659154653)
+   - [x] Mac + iOS
+
+- **Pipilo** :moneybag:
+
+   - Pipilo is a unique Fediverse app that lets you browse posts on a horizontally scrolling timeline. Each post is displayed within the context of its conversation with replies from people you follow. This results in an elegant, distraction-free interface, making it easy to follow various conversation threads.
+   - [Official Website](https://pipilo.thanel.me/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Trial for free](https://apps.apple.com/app/id6444602274)
    - [x] Mac + iOS
 
 - **Sengi**
@@ -886,6 +878,8 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/axolotl-chat/axolotl#installation)
    - [x] Linux
 
+   ⓘ Axolotl's code repository was archived on July 7th 2025.
+
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Flare**
@@ -933,12 +927,12 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/jpochyla/psst#download)
    - [x] Linux, Mac and Windows
 
-- **Spot**
+- **Riff**
 
    - GTK/Rust native Spotify client for the GNOME desktop. A Spotify Premium account is required.
-   - Official Website (N/A) | [Repo](https://github.com/xou816/spot)
+   - Official Website (N/A) | [Repo](https://github.com/Diegovsky/riff)
    - [x] Open Source
-   - [x] [Download for free](https://flathub.org/apps/details/dev.alextren.Spot)
+   - [x] [Download for free](https://flathub.org/apps/details/dev.diegovsky.Riff)
    - [x] Linux
 
 - **Spotiqueue**
@@ -1057,6 +1051,14 @@ Based on ArmCord.
 
 ### TIDAL
 
+- **High Tide**
+
+   - Third party unofficial TIDAL music client. Listen to your favorite music from your desktop or mobile Linux device at the highest quality.
+   - Official Website (N/A) | [Repo](https://github.com/Nokse22/high-tide)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/en/apps/io.github.nokse22.high-tide)
+   - [x] Linux
+
 - **Strawberry**
 
    - Strawberry is a music player and music collection organiser. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
@@ -1168,14 +1170,6 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/keshavbhatt/whatsie)
    - [x] Open Source
    - [x] [Download for free](https://github.com/keshavbhatt/whatsie#install-whatsie-on-linux-desktop)
-   - [x] Linux
-
-- **ZapZap**
-
-   - WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine.
-   - [Official Website](https://rtosta.com/zapzap-web/) | [Repo](https://github.com/keshavbhatt/whatsie)
-   - [x] Open Source
-   - [x] [Download for free](https://rtosta.com/zapzap-web/#download)
    - [x] Linux
 
 
