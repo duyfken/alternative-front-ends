@@ -551,6 +551,8 @@ ___
 
 ### YouTube
 
+   ⓘ Most YouTube web-based alternative front-ends developers are finding it very difficult to find a way to get their scripts to operate with the counter-measures Google is taking of late, so most do not work. I highly recommend checking out the available mobile and TV alternative front-ends as they are working more reliably at the moment ([though that may change soon "for security reasons"](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)). Go to the top of this page and change the branch to mobile or TV to find them.
+
 - **Invidious**
 
    - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
@@ -559,6 +561,8 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
    - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
+
+   ⓘ https://materialio.us/ seems to be the only (unofficial) instance working at the time of this update.
 
 - **Piped**
 
@@ -569,6 +573,8 @@ ___
    - [x] Self-Hostable | [Guide](https://docs.piped.video/docs/self-hosting/)
    - [x] Decentralised Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
 
+   ⓘ All but one instance is offline (at last check) and there hasn't been any active respository updates (other than translations or dependencies updates) in over 6 months
+
 - **Cloudtube**
 
    - Alternative Invidious front-end without Javascript. 
@@ -577,6 +583,9 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
+   ⓘ ["I don't have much interest in maintaining my own instance of this 
+software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b2-8ed3-176a6feb7892%40disroot.org%3E)
+
 - **Viewtube**
 
    - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
@@ -584,6 +593,8 @@ ___
    - Public Instances (N/A)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
+
+   ⓘ Project semi-paused at the moment. Read here: https://github.com/ViewTube/viewtube/discussions/3002
 
 
 ### YouTube Music
