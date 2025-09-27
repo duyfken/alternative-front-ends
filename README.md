@@ -1234,6 +1234,8 @@ Based on ArmCord.
    - [x] [Download for free](https://gitlab.com/schmiddi-on-mobile/pipeline#installation)
    - [x] Linux
 
+   ⓘ Relies on Piped, for which most instances are offline and their codebase has been dormant (other than translations and dependencies updates) for over 6 months. :fearful:
+
 - **pipe-viewer**
 
    - A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube. This fork parses the YouTube website directly and relies on the invidious instances only as a fallback method.
@@ -1249,6 +1251,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](http://www.smtube.org/)
    - [x] Linux and Windows
+
+   ⓘ Has not had any codebase commits in over 2 years(!)
 
 - **Yattee**
 
