@@ -902,6 +902,8 @@ ___
    - [x] [Download for free](https://github.com/mu-fazil-vk/FluxTube#download)
    - [x] Android
 
+   ⓘ Relies solely on Piped, for which most instances are offline and their codebase has been dormant (other than translations and dependencie updates) for over 6 months. :fearful:
+
 - **FreeTube Android**
 
    - FreeTube Android is an open source YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript.
@@ -922,7 +924,7 @@ ___
 
 - **LibreTube**
 
-   - An alternative frontend for YouTube, for Android, using Piped as the YouTube proxy.
+   - An alternative frontend for YouTube, for Android, using a local extraction method on your device or using online Piped instances as the YouTube proxy.
    - [Official Website](https://libretube.dev/) | [Repo](https://github.com/libre-tube/LibreTube)
    - [x] Open Source
    - [x] [Download for free](https://github.com/libre-tube/LibreTube/releases)
