@@ -260,6 +260,14 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/apps/org.gnome.gitg)
    - [x] Linux
 
+- **GitHub Desktop Plus**
+
+   - This is an up-to-date fork of [GitHub Desktop](https://github.com/desktop/desktop) for Linux with additional features and improvements.
+   - Official Website (N/A) | [Repo](https://github.com/pol-rivero/github-desktop-plus)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/pol-rivero/github-desktop-plus#download-and-installation)
+   - [x] Linux
+
 - **GitKraken** 💰
 
    - Millions of developers and teams around the world choose GitKraken Client to make Git more visual and accessible with an intuitive UI, the flexibility to switch between a GUI or a terminal, and a seamless experience across operating systems. Can be used for free but then most features will only work on public Git repositories.
@@ -1146,6 +1154,14 @@ Based on ArmCord.
 
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Karere**
+
+   - A modern, native GTK4/LibAdwaita wrapper for WhatsApp Web that provides seamless integration with the Linux desktop environment.
+   - Official Website (N/A) | [Repo](https://github.com/tobagin/karere)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/tobagin/karere#installation)
+   - [x] Linux
+
 - **nchat**
 
    - nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp.
@@ -1174,6 +1190,14 @@ Based on ArmCord.
 
 
 ### Wikipedia
+
+- **Hypatia**
+
+   - Hypatia is a research tool for the Linux desktop. It's designed to provide at-a-glance information about the topics you're reading, or about things you're curious about. It lets you find definitions, explanations, and answers related to the text on your display without removing you from the context or making you navigate away. It has three main action areas, Instant Answers (provided by DuckDuckGo), Definition (provided by Wiktionary) and Wikipedia.
+   - Official Website (N/A) | [Repo](https://codeberg.org/nathandyer/Hypatia)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/en/apps/net.hypatiaproject.Hypatia)
+   - [x] Linux
 
 - **Kiwix Desktop**
 
@@ -1253,6 +1277,14 @@ Based on ArmCord.
    - [x] Linux and Windows
 
    ⓘ Has not had any codebase commits in over 2 years(!)
+
+- **VacuumTube**
+
+   - VacuumTube is an unofficial wrapper of YouTube Leanback (the console and Smart TV version of YouTube) for the desktop, with a built-in adblocker and minor enhancements.
+   - Official Website (N/A) | [Repo](https://github.com/shy1132/VacuumTube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/shy1132/VacuumTube#installing)
+   - [x] Linux, Mac and Windows
 
 - **Yattee**
 
