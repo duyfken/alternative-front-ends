@@ -5,16 +5,16 @@
 [<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
 
 > [!NOTE]
-> You are viewing the [Mobile Front-ends](../../tree/web) branch of this list!
+> You are viewing the [Mobile Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/mobile) branch of this list!
 > 
-> If you would like [Web Front-ends](../../tree/web), [TV Front-ends](../../tree/tv)  or [Desktop Front-ends](../../tree/desktop), please visit those branches of this repository.
+> If you would like [Web Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/web), [TV Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/tv)  or [Desktop Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/desktop), please visit those branches of this repository.
 ___
 
 Thanks to  **shaedrich** and **Philippe-Choquette** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](../../issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list **[here](https://codeberg.org/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
