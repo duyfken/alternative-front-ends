@@ -2,21 +2,21 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are cross-platform webapps and should work on your device no matter the OS and hardware.**
 
-[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
 
 > [!NOTE]
-> You are viewing the [Web Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/web) branch of this list!
+> You are viewing the **Web Front-ends** branch of this list!
 > 
-> If you would like [Mobile Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/mobile), [TV Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/tv)  or [Desktop Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/desktop), please visit those branches of this repository.
+> If you would like **Mobile Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/mobile) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/mobile), **TV Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/tv) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/tv) or **Desktop Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/desktop) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository by clicking the logo next to each branch to view it on either Codeberg or GitHub (or use their branch selection at the top of the repository).
 ___
-ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found **[here](https://codeberg.org/duyfken/RedirectorPrivacyAlternatives)**
+ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found on both **[Codeberg](https://codeberg.org/duyfken/RedirectorPrivacyAlternatives)** and **[GitHub](https://github.com/duyfken/RedirectorPrivacyAlternatives)**, just like this repository!
 ___
 
-Thanks to  **bg443** and **shaedrich** for contributing to the expansion of this list!
+Thanks to  **bg443**, **shaedrich** and **untrusem** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://codeberg.org/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list on **[Codeberg](https://codeberg.org/duyfken/alternative-front-ends/issues/new/choose)** or **[GitHub](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
