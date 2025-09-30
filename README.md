@@ -2,19 +2,18 @@
 
 **This is a list of privacy-respecting front-ends to popular online services, including social media, streaming and information services. All of the options here are apps for TVs running Apple tvOS, Roku OS, LG WebOS, Samsung Tizen OS or Android TV (including Fire TV).**
 
-[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
+[<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends) [<img src="https://img.shields.io/badge/GitHub-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends)
 
 > [!NOTE]
-> You are viewing the [TV Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/tv) branch of this list!
+> You are viewing the **TV Front-ends** branch of this list!
 > 
-> If you would like [Web Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/web), [Mobile Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/mobile)  or [Desktop Front-ends](https://codeberg.org/duyfken/alternative-front-ends/src/branch/desktop), please visit those branches of this repository.
+> If you would like **Web Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/web) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/web), **Mobile Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/mobile) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/mobile) or **Desktop Front-ends** [<img src="https://img.shields.io/badge/-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/alternative-front-ends/src/branch/desktop) [<img src="https://img.shields.io/badge/-1b1f24?logo=github&logoColor=white">](https://github.com/duyfken/alternative-front-ends/tree/desktop), please visit those branches of this repository by clicking the logo next to each branch to view it on either Codeberg or GitHub (or use their branch selection at the top of the repository).
 ___
-
-Thanks to  **shaedrich** for contributing to the expansion of this list!
+Thanks to  **shaedrich** and **untrusem** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
-ⓘ You can suggest new front-ends and modifications to the list **[here](https://codeberg.org/duyfken/alternative-front-ends/issues/new/choose)**.
+ⓘ You can suggest new front-ends and modifications to the list on **[Codeberg](https://codeberg.org/duyfken/alternative-front-ends/issues/new/choose)** or **[GitHub](https://github.com/duyfken/alternative-front-ends/issues/new/choose)**.
 ___
 A to Z + Tools
 
