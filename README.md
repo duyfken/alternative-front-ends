@@ -1005,6 +1005,14 @@ ___
    - [x] [Download for free](https://github.com/mostafaalagamy/Metrolist#download-now)
    - [x] Android
 
+- **Musify**
+
+   - The open-source music app for Android that offers streaming and offline listening. Enjoy custom playlists, high-quality audio, and lyrics support - all completely free, with no ads or subscriptions. 
+   - Official Website (N/A) | [Repo](https://github.com/gokadzev/Musify)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/gokadzev/Musify#download)
+   - [x] Android
+
 - **Namida**
 
    - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter.
@@ -1030,6 +1038,14 @@ ___
    - [x] Android
 
 - **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
+
+- **vivi**
+
+   - Stream unlimited music from YouTube Music with advanced features, offline downloads, and seamless background playback in one elegant app. 
+   - [Official Website](https://vivi-music-web-com.vercel.app/) | [Repo](https://github.com/vivizzz007/vivi-music)
+   - [x] Open Source
+   - [x] [Download for free](https://vivi-music-web-com.vercel.app/releases.html)
+   - [x] Android
 
 ___
 
