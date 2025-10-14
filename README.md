@@ -45,6 +45,16 @@ ___
 
    ⓘ Ferdium currently supports ***over 350 services***, including all the usual suspects, and even allows anyone to create a custom service!
 
+- **Grayjay**
+
+   - Grayjay is an app that serves as a video player and source aggregator. It allows you to stream and organise videos from various sources, providing a unified platform for your entertainment needs.
+   - [Official Website](https://grayjay.app/desktop/) | [Repo](https://gitlab.futo.org/videostreaming/Grayjay.Desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://grayjay.app/desktop/#download)
+   - [x] Linux, Max and Windows + Android
+
+   ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
+
 - **irssi**
 
    - Irssi is a modular text mode chat client. It comes with IRC support built in, and there are third party ICB, SILC, XMPP (Jabber), PSYC and Quassel protocol modules available.
@@ -903,6 +913,8 @@ Based on ArmCord.
 
 ### Spotify
 
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Kotify**
 
    - Kotify is a multiplatform desktop client for Spotify focused on library organisation for power users. A Spotify Premium account is required.
@@ -1139,6 +1151,8 @@ Based on ArmCord.
 
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
+
 - **twitch-tui**
 
    - A Terminal User Interface for reading and interacting with Twitch chat users, written in Rust.
@@ -1241,6 +1255,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://freetubeapp.io/#download)
    - [x] Linux, Mac and Windows
+
+- **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
 - **miniTube** 💰
 
