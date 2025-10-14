@@ -38,11 +38,11 @@ ___
 
 - **Grayjay**
 
-   - Grayjay is a mobile app that serves as a video player and source aggregator. It allows you to stream and organise videos from various sources, providing a unified platform for your entertainment needs.
-   - [Official Website](https://grayjay.app/) | [Repo](https://github.com/futo-org/grayjay-android)
+   - Grayjay is an app that serves as a video player and source aggregator. It allows you to stream and organise videos from various sources, providing a unified platform for your entertainment needs.
+   - [Official Website](https://grayjay.app/) | [Repo](https://gitlab.futo.org/videostreaming/grayjay)
    - [x] Open Source
    - [x] [Download for free](https://grayjay.app/#download)
-   - [x] Android
+   - [x] Android + Linux, Mac and Windows
 
    ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
 
