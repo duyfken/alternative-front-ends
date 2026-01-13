@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Urban Dictionary](#urban-dictionary) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -147,10 +147,10 @@ ___
 
 ### Instagram
 
-- **Imgsed**
+- **Imginn**
 
-   - Imgsed is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
-   - [Official Instance](https://imgsed.com/) | Repo (N/A)
+   - Imginn is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
+   - [Official Instance](https://imginn.com/) | Repo (N/A)
    - [ ] Open Source 
    - [ ] Self-Hostable
 
@@ -312,15 +312,6 @@ ___
 
 ### Medium
 
-- **Scribe**
-
-   - Tracking- and ad-free FOSS front-end for Medium.
-   - [Official Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
-   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
-   - [x] Decentralised Options | [I2P](http://sc.vern.i2p) | [Onion](http://w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion/)
-
 - **LibMedium**
 
    - Minimalist proxy for Medium written in Rust.
@@ -329,6 +320,23 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
    - [x] Decentralised Options | [I2P](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p/) | [Onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+
+- **Scribe**
+
+   - Tracking and ad-free FOSS front-end for Medium.
+   - [Official Instance](https://scribe.rip) | [Repo](https://git.sr.ht/~edwardloveall/scribe)
+   - [Public Instances](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~edwardloveall/scribe#deploying-your-own)
+   - [x] Decentralised Options | [I2P](http://sc.vern.i2p) | [Onion](http://w7uhv5lxhgck72hhimdglmusc54t4m6bionlmd5mvyddq3bs53mohqid.onion/)
+
+- **Small**
+
+   - Small is an alternative frontend for Medium articles, built with Flask. It allows users to read Medium articles without the clutter and distractions of the original Medium interface.
+   - [Official Instance](https://small.private.coffee/) | [Repo](https://git.private.coffee/PrivateCoffee/small)
+   - [Public Instances](https://git.private.coffee/PrivateCoffee/small#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://git.private.coffee/PrivateCoffee/small#installation)
 
 
 ### Odysee
@@ -402,14 +410,14 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
    - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
 
-- **LibreX**
+- **LibreY**
 
    - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends.
-   - Official Instance (N/A) | [Repo](https://github.com/hnhx/librex)
-   - [Public Instances](https://github.com/hnhx/librex#instances)
+   - Official Instance (N/A) | [Repo](https://github.com/Ahwxorg/librey)
+   - [Public Instances](https://github.com/Ahwxorg/LibreY/blob/main/instances.json)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX)
-   - [x] Decentralised Options | [I2P](https://github.com/hnhx/librex#instances) | [Onion](https://github.com/hnhx/librex#instances)
+   - [x] Self-Hostable | [Guide](https://github.com/Ahwxorg/LibreY/tree/main/docs)
+   - [x] Decentralised Options | [I2P](https://github.com/Ahwxorg/LibreY/blob/main/instances.json) | [Onion](https://github.com/Ahwxorg/LibreY/blob/main/instances.json)
 
 - **SearX**
 
@@ -442,6 +450,17 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://git.maid.zone/stuff/soundcloak/src/branch/main/docs/INSTANCE_GUIDE.md)
    - [x] Decentralised Options | [Onion](https://maid.zone/soundcloak/instances.html)
+
+
+### StackOverflow
+
+- **AnonymousOverflow**
+
+   - View StackOverflow in privacy and without the clutter.
+   - [Official Instance](https://code.whatever.social/) | [Repo](https://github.com/httpjamesm/AnonymousOverflow)
+   - [Public Instances](https://aohub.httpjames.space/)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
 
 
 ### Tiktok
@@ -493,6 +512,14 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/LibreTranslate/LibreTranslate#install-and-run)
    - [x] Decentralised Options | [I2P](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)  | [Onion](https://github.com/LibreTranslate/LibreTranslate#tori2p-mirrors)
 
+- **TransLite**
+
+   - TransLite is a simple and lightweight frontend for Google Translate, DeepL, Yandex and DDG Translate written in PHP.
+   - [Official Instance](https://tl.bloat.cat/) | [Repo](https://codeberg.org/gospodin/translite)
+   - [Public Instances](https://codeberg.org/gospodin/translite#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/gospodin/translite#installation)
+
 
 ### Tumblr
 
@@ -537,6 +564,17 @@ ___
    - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
 
 
+### Ultimate Guitar
+
+- **freetar**
+
+   - This is like Invidious but only for Ultimate Guitar.
+   - Official Instance (N/A) | [Repo](https://github.com/kmille/freetar)
+   - [Public Instances](https://github.com/kmille/freetar#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/kmille/freetar#how-to-use-it)
+
+
 ### Urban Dictionary
 
 - **Rural Dictionary**
@@ -547,6 +585,17 @@ ___
    - [x] Open Source
    - [x] Self-Hostable
    - [x] Decentralised Options | [I2P](http://vern5cxiaufqvhv4hu5ypkvw3tiwvuinae4evdbqzrioql6s2sha.b32.i2p/)  | [Onion](http://rd.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
+
+
+### Wikipedia
+
+- **Wikiless**
+
+   - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring users can explore knowledge with enhanced privacy. 
+   - [Official Instance](https://wikiless.com/) | [Repo](https://github.com/Metastem/wikiless)
+   - [Public Instances](https://github.com/Metastem/Wikiless/wiki/Instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/Metastem/Wikiless/wiki/Deployment)
 
 
 ### YouTube
@@ -677,6 +726,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Urban Dictionary is a trademark of Urban Dictionary LLC. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
