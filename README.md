@@ -321,6 +321,8 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy)
    - [x] Decentralised Options | [I2P](http://vernaqj2qr2pijpgvf3od6ssc3ulz3nv52gwr3hba5l6humuzmgq.b32.i2p/) | [Onion](http://md.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/)
 
+   ⓘ LibMedium's repo has not had any commits in 18 months and no instances currently work.
+
 - **Scribe**
 
    - Tracking and ad-free FOSS front-end for Medium.
@@ -363,6 +365,8 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#installation)
    - [x] Decentralised Options | [I2P](https://github.com/zyachel/quetre#instances) | [Onion](https://github.com/zyachel/quetre#instances)
+
+   ⓘ Quetre's repo has not had any significant commits in 18 months and hardly any instances currently work.
 
 
 ### Reddit
@@ -495,14 +499,6 @@ ___
    - [x] Self-Hostable | [Guide](https://codeberg.org/aryak/mozhi#installing)
    - [x] Decentralised Options | [Onion](https://codeberg.org/aryak/mozhi#instances)
 
-- **Lingva**
-
-   - Tracking-free Google Translate front-end.
-   - [Official Instance](https://lingva.thedaviddelta.com/) | [Repo](https://github.com/TheDavidDelta/lingva-translate)
-   - [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment)
-
 - **LibreTranslate**
 
    - Free and Open Source Machine Translation API, entirely self-hosted. Unlike other APIs, it doesn't rely on proprietary providers such as Google or Azure to perform translations. Instead, its translation engine is powered by the open source Argos Translate library.
@@ -542,6 +538,8 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from Source)
    - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
+
+   ⓘ SafeTwitch's repo has been archived on Christmas Eve 2025 and no further updates are expected.
 
 - **Twitchat**
 
