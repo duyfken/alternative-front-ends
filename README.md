@@ -536,7 +536,7 @@ ___
    - [Official Instance](https://safetwitch.drgns.space/) | [Repo](https://codeberg.org/dragongoose/safetwitch)
    - [Public Instances](https://codeberg.org/SafeTwitch/safetwitch#instances)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://codeberg.org/dragongoose/safetwitch/wiki/Hosting-from Source)
+   - [x] Self-Hostable | [Guide](https://codeberg.org/SafeTwitch/safetwitch/wiki/Hosting-from-source)
    - [x] Decentralised Options | [I2P](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#i2p)  | [Onion](https://codeberg.org/dragongoose/safetwitch/wiki/Instances#onion)
 
    ⓘ SafeTwitch's repo has been archived on Christmas Eve 2025 and no further updates are expected.
