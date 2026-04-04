@@ -262,6 +262,14 @@ Based on ArmCord.
    - [x] [Download for free](https://gitfiend.com/)
    - [x] Linux and Mac
 
+- **GitFourchette**
+
+   - Cross-platform Git UI for humans.
+   - [Official Website](https://gitfourchette.org/) | [Repo](https://github.com/jorio/gitfourchette)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jorio/gitfourchette#install)
+   - [x] Linux
+
 - **gitg**
 
    - gitg is the GNOME GUI client to view git repositories. 
@@ -294,6 +302,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/JetpackDuba/Gitnuro/#downloadinstall)
    - [x] Linux, Mac and Windows
 
+- **Gitpulsar**
+
+   - A lightweight, GNOME-native Git GUI built with Rust, GTK4, and libadwaita.
+   - Official Website (N/A) | [Repo](https://gitlab.com/ilshat-apps/gitpulsar)
+   - [x] Open Source
+   - [x] [Download for free](https://gitlab.com/ilshat-apps/gitpulsar)
+   - [x] Linux
+
 - **Gittyup**
 
    - Gittyup is a graphical Git client designed to help you understand and manage your source code history.
@@ -308,6 +324,14 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/altsem/gitu)
    - [x] Open Source
    - [x] [Download for free](https://github.com/altsem/gitu#installing-gitu)
+   - [x] Linux
+
+- **Gity**
+
+   - A simple and fast Git repository browser. View branches, commit diffs, and search through all commit messages.
+   - Official Website (N/A) | [Repo](https://github.com/deepwell/gity)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/en/apps/com.markdeepwell.GitY)
    - [x] Linux
 
 - **Kommit**
@@ -533,6 +557,13 @@ Based on ArmCord.
 
    ⓘ Manet on MacOS requires the purchase of Manet+ for USD$9.99
 
+- **Nocturne**
+
+   - Nocturne is a Navidrome / Jellyfin client that brings all your music together in one place, Nocturne not only connects to existing instances but it's capable of installing and managing it's own Navidrome instance.
+   - [Official Website](https://jeffser.com/nocturne) | [Repo](https://github.com/Jeffser/Nocturne)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/com.jeffser.Nocturne)
+   - [x] Linux
 
 - **Qcm**
 
@@ -548,6 +579,14 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/jeffvli/feishin)
    - [x] Open Source
    - [x] [Download for free](https://github.com/dweymouth/supersonic#installation)
+   - [x] Linux, Mac and Windows
+
+- **Switchfin**
+
+   - Switchfin is third-party PC player for Jellyfin that provides a native user interface to browse and play movies and series. 
+   - Official Website (N/A) | [Repo](https://github.com/dragonflylee/switchfin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dragonflylee/switchfin)
    - [x] Linux, Mac and Windows
 
 - **Tauon**
@@ -616,14 +655,6 @@ Based on ArmCord.
    - [x] [Trial for free](https://apps.apple.com/app/id6444602274)
    - [x] Mac + iOS
 
-- **Sengi**
-
-   - Sengi is a Mastodon and Pleroma desktop focused client. The Sengi desktop app is an Electron Wrapper for the webapp.
-   - [Official Website](https://nicolasconstant.github.io/sengi/) | [Repo](https://github.com/NicolasConstant/sengi-electron)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/NicolasConstant/sengi-electron/releases)
-   - [x] Linux, Mac and Windows
-
 - **Tokodon**
 
    - Tokodon is a Mastodon client for Plasma and Plasma Mobile (KDE).
@@ -654,14 +685,6 @@ Based on ArmCord.
    - [Official Website](https://tuba.geopjr.dev/) | [Repo](https://github.com/GeopJr/Tuba)
    - [x] Open Source
    - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
-   - [x] Linux
-
-- **Tut**
-
-   - A TUI for Mastodon with vim inspired keys. The program has most of the features you can find in the web client.
-   - [Official Website](https://tut.anv.nu/) | [Repo](https://github.com/RasmusLindroth/tut)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/RasmusLindroth/tut#install-instructions)
    - [x] Linux
 
 - **Whalebird**
@@ -808,14 +831,6 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/SchildiChat/schildichat-desktop/releases)
    - [x] Linux, Mac and Windows + Web + Android
-
-- **Syphon**
-
-   - Syphon aims to be built on the foundations of privacy, branding, and user experience in an effort to pull others away from proprietary chat platforms to the matrix protocol.
-   - [Official Website](https://syphon.org/) | [Repo](https://github.com/syphon-org/syphon)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/syphon-org/syphon/releases)
-   - [x] Linux, Mac and Windows + Android and iOS
 
 
 ### Messenger
@@ -974,7 +989,7 @@ Based on ArmCord.
 - **spotify-qt**
 
    - An unofficial Spotify client using Qt as a simpler, lighter alternative to the official client. A Spotify Premium account is required.
-   - Official Website (N/A) | [Repo](https://github.com/Rigellute/spotify-tui)
+   - Official Website (N/A) | [Repo](https://github.com/kraxarn/spotify-qt)
    - [x] Open Source
    - [x] [Download for free](https://github.com/kraxarn/spotify-qt#installing)
    - [x] Linux and Windows
@@ -1034,14 +1049,6 @@ Based on ArmCord.
    - [x] [Download for free](https://kukuruzka165.github.io/materialgram/)
    - [x] Linux, Mac and Windows
 
-- **Kotatogram**
-
-   - Unofficial Telegram client based on Telegram Desktop, with additional features. Provides 64bit builds for Windows, Linux, MacOS.
-   - [Official Website](https://kotatogram.github.io/) | [Repo](https://github.com/kotatogram/kotatogram-desktop)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/kotatogram/kotatogram-desktop#builds)
-   - [x] Linux, Mac and Windows
-
 - **nchat**
 
    - nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp.
@@ -1079,6 +1086,14 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/en/apps/io.github.nokse22.high-tide)
    - [x] Linux
 
+- **Sone**
+
+   - The native desktop client for TIDAL on Linux. Modern UI, custom themes, and lossless streaming with bit-perfect ALSA output up to 24-bit/192kHz (MAX) — your DAC, not your browser's resampler.
+   - Official Website (N/A) | [Repo](https://github.com/lullabyX/sone)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/lullabyX/sone#installation--download)
+   - [x] Linux
+
 - **Strawberry**
 
    - Strawberry is a music player and music collection organiser. It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
@@ -1094,6 +1109,14 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/Mastermindzh/tidal-hifi#installation)
    - [x] Linux, Mac and Windows
+
+- **Tonearm**
+
+   - Unofficial native GTK4 / Adwaita music streaming client for TIDAL.
+   - [Official Website](https://dergs.dev/projects/tonearm) | [Repo](https://codeberg.org/dergs/Tonearm)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/en/apps/dev.dergs.Tonearm)
+   - [x] Linux
 
 
 ### Translate
@@ -1186,14 +1209,6 @@ Based on ArmCord.
 
 - **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
 
-- **WasIstLos**
-
-   - WasIstLos is an unofficial WhatsApp desktop application written in C++ with the help of gtkmm and WebKitGtk libraries.
-   - Official Website (N/A) | [Repo](https://github.com/xeco23/WasIstLos)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/xeco23/WasIstLos)
-   - [x] Linux
-
 - **WhatSie**
 
    - Feature rich WhatsApp web client based on Qt WebEngine for Linux Desktop.
@@ -1202,16 +1217,16 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/keshavbhatt/whatsie#install-whatsie-on-linux-desktop)
    - [x] Linux
 
+- **ZapZap**
+
+   - ZapZap brings the WhatsApp experience on Linux closer to that of a native application. Since Meta does not provide a public API for third-party applications, ZapZap is developed as a Progressive Web Application (PWA), built with PyQt6 + PyQt6-WebEngine.
+   - [Official Website](http://rtosta.com/zapzap/) | [Repo](https://github.com/rafatosta/zapzap)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rafatosta/zapzap#-download)
+   - [x] Linux
+
 
 ### Wikipedia
-
-- **Hypatia**
-
-   - Hypatia is a research tool for the Linux desktop. It's designed to provide at-a-glance information about the topics you're reading, or about things you're curious about. It lets you find definitions, explanations, and answers related to the text on your display without removing you from the context or making you navigate away. It has three main action areas, Instant Answers (provided by DuckDuckGo), Definition (provided by Wiktionary) and Wikipedia.
-   - Official Website (N/A) | [Repo](https://codeberg.org/nathandyer/Hypatia)
-   - [x] Open Source
-   - [x] [Download for free](https://flathub.org/en/apps/net.hypatiaproject.Hypatia)
-   - [x] Linux
 
 - **Kiwix Desktop**
 
