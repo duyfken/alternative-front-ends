@@ -755,14 +755,6 @@ ___
    - [x] [Download for free](https://github.com/NextAlone/Nagram/releases)
    - [x] Android
 
-- **Nekogram**
-
-   - Nekogram is a third-party Telegram client with not many but useful modifications.
-   - Official Website (N/A) | [Repo](https://github.com/Nekogram/Nekogram)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/Nekogram/Nekogram/releases)
-   - [x] Android
-
 - **Telegram-FOSS**
 
    - Unofficial, FOSS-friendly fork of the original Telegram client for Android. Several proprietary parts were removed from the original Telegram client, including Google Play Services for the location services, HockeySDK for self-updates and push notifications through Google Cloud Messaging. Location sharing functionality is restored using OpenStreetMap.
