@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -57,6 +57,14 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://docs.breezewiki.com/Running.html)
    - [x] Decentralised Options | [Onion](https://docs.breezewiki.com/Links.html#(part._.Onion_.Mirrors))
+
+- **Phantom**
+
+   - Phantom is a privacy frontend for fandom.com.
+   - [Official Instance](https://ph.kuuro.net/) | [Repo](https://codeberg.org/phantom-org/phantom)
+   - [Public Instances](https://codeberg.org/phantom-org/phantom-instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/phantom-org/phantom#getting-started)
 
 
 ### Genius
@@ -147,13 +155,6 @@ ___
 
 ### Instagram
 
-- **Imginn**
-
-   - Imginn is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
-   - [Official Instance](https://imginn.com/) | Repo (N/A)
-   - [ ] Open Source 
-   - [ ] Self-Hostable
-
 - **Bibliogram [Deprecated]**
 
    - Alternative Instagram front-end without Javascript, tracking, ads and signup prompts. Currently unstable due to Instagram's server blocking.
@@ -163,6 +164,33 @@ ___
    - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Installing%20%28extended%29.md)
 
    ⓘ Bibliogram's development has stopped as Instagram is continuing to block servers (if you want to pick up the development of Bibliogram, check [this blog post](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram) by the original maintainer). There currently is no working open source front-end for Instagram. For some reason, closed source proxy sites like [this one](https://www.pixwox.com) continue working despite doing the exact same thing Bibliogram did.
+
+- **Imginn**
+
+   - Imginn is an online Instagram backup tool that helps users save Instagram photos through the Instagram public API.
+   - [Official Instance](https://imginn.com/) | Repo (N/A)
+   - [ ] Open Source 
+   - [ ] Self-Hostable
+
+- **Kittygram**
+  
+   - Kittygram is an anonymous, privacy-friendly, lightweight, and open-source Instagram frontend inspired by nitter. It offers a clean, fast way to browse Instagram without the usual clutter or tracking.
+   - [Official Instance](https://kittygr.am/) | [Repo](https://codeberg.org/irelephant/kittygram)
+   - [Public Instances](https://codeberg.org/irelephant/kittygram#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/irelephant/kittygram#installation)
+
+
+### Instructables
+
+- **Structables**
+
+   - An open source alternative front-end to Instructables. This is a fork of snowcatridge10's Indestructables, which itself is a fork of Cobra's Destructables.
+   - [Official Instance](https://structables.private.coffee/) | [Repo](https://github.com/PrivateCoffee/structables)
+   - [Public Instances](https://github.com/PrivateCoffee/structables#instances) 
+   - [x] Open Source 
+   - [x] Self-Hostable | [Guide](https://github.com/PrivateCoffee/structables#run-your-own-instance)
+   - [x] Decentralised Options | [Onion](https://github.com/PrivateCoffee/structables#tor-hidden-services)
 
 
 ### Lemmy
@@ -269,14 +297,6 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/element-hq/element-web/blob/develop/docs/install.md)
 
-- **Extera**
-
-   - A Matrix client with some improvements and new features, based on Cinny.
-   - [Official Instance](https://app.extera.xyz/) | [Repo](https://github.com/officialdakari/Extera)
-   - Public Instances (N/A)
-   - [x] Open Source
-   - [x] Self-Hostable
-
 - **FluffyChat**
 
    - FluffyChat is an open source, nonprofit and cute Matrix client written in Flutter. The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
@@ -355,6 +375,25 @@ ___
    ⓘ Librarian's repo has been archived as at May 2023 and no further updates are expected, as per https://bcow.xyz/posts/archiving-librarian/.
 
 
+### Pinterest
+
+- **Binternet**
+
+   - A custom Pinterest frontend, made in PHP.
+   - Official Instance (N/A) | [Repo](https://github.com/Ahwxorg/Binternet)
+   - [Public Instances](https://github.com/Ahwxorg/Binternet#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/Ahwxorg/Binternet/wiki/Installing)
+
+- **Pinless**
+
+   - Privacy-focused frontend for Pinterest. No tracking, no exposing your IP address to Pinterest, no JavaScript, no ads & no hassle.
+   - [Official Instance](https://pinterest.bunk.im/) | [Repo](https://github.com/bunk-im/pinless)
+   - [Public Instances](https://github.com/bunk-im/pinless/blob/main/INSTANCES.md)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/bunk-im/pinless#how-to-deploy)
+
+
 ### Quora
 
 - **Quetre**
@@ -405,14 +444,13 @@ ___
 
 ### Search Engines
 
-- **Whoogle**
+- **4get**
 
-   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support.
-   - Official Instance (N/A) | [Repo](https://github.com/benbusby/whoogle-search)
-   - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
+   - 4get is a proxy search engine that doesn't suck.
+   - [Official Instance](https://4get.ca/) | [Repo](https://git.lolcat.ca/lolcat/4get)
+   - [Public Instances](https://4get.ca/instances)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
-   - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
+   - [x] Self-Hostable | [Guide](https://git.lolcat.ca/lolcat/4get/src/branch/master/docs/)
 
 - **LibreY**
 
@@ -442,6 +480,23 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://docs.searxng.org/admin/index.html)
    - [x] Decentralised Options | [Onion](https://searx.space)
+
+- **websurfx**
+
+   - A modern-looking, lightning-fast, privacy-respecting, secure meta search engine (pronounced as websurface or web-surface /wɛbˈsɜːrfəs/.) written in Rust. It provides a quick and secure search experience while completely respecting user privacy.
+   - Official Instance (N/A) | [Repo](https://github.com/neon-mmd/websurfx)
+   - [Public Instances](https://github.com/neon-mmd/websurfx/blob/rolling/docs/instances.md)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/neon-mmd/websurfx#installation-and-testing-%EF%B8%8F)
+
+- **Whoogle**
+
+   - Google search result front-end without Javascript, ads, cookies and tracking. Tor and HTTP/SOCKS proxy support.
+   - Official Instance (N/A) | [Repo](https://github.com/benbusby/whoogle-search)
+   - [Public Instances](https://github.com/benbusby/whoogle-search#public-instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
+   - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
 
 
 ### SoundCloud
@@ -724,6 +779,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
