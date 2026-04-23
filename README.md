@@ -12,7 +12,7 @@ ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found on both **[Codeberg](https://codeberg.org/duyfken/RedirectorPrivacyAlternatives)** and **[GitHub](https://github.com/duyfken/RedirectorPrivacyAlternatives)**, just like this repository!
 ___
 
-Thanks to  **bg443**, **shaedrich** and **untrusem** for contributing to the expansion of this list!
+Thanks to **sealzone**, **bg443**, **shaedrich** and **untrusem** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
@@ -452,6 +452,14 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://git.lolcat.ca/lolcat/4get/src/branch/master/docs/)
 
+- **Degoog**
+
+   - Search aggregator that queries multiple engines and shows results in one place.
+   - Official Instance (N/A) | [Repo](https://github.com/fccview/degoog)
+   - [Public Instances](https://github.com/fccview/degoog/blob/main/docs/repo/PUBLIC_INSTANCES.md)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/fccview/degoog#run)
+
 - **LibreY**
 
    - A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting front-ends.
@@ -497,6 +505,8 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/benbusby/whoogle-search#install)
    - [x] Decentralised Options | [I2P](https://github.com/benbusby/whoogle-search#i2p-instances) | [Onion](https://github.com/benbusby/whoogle-search#onion-instances)
+
+   ⓘ Whoogle has reached End Of Life due to aggressive blocking from Google, [the last official release is v1.2.4](https://github.com/benbusby/whoogle-search/releases/tag/v1.2.4).
 
 
 ### SoundCloud
