@@ -28,6 +28,12 @@ A to Z + Tools
 ___
 ### Bluesky
 
+- **Anartia**
+
+   - JavaScript-optional public web frontend for Bluesky.
+   - [Official Instance](https://anartia.kelinci.net/) | [Repo](https://codeberg.org/mary-ext/anartia)
+   - [x] Open Source
+
 - **Skylib**
 
    - Skylib is a collection of tools to access Bluesky across all platforms. It was inspired by Nitter, Invidious, and libreddit/redlib.
