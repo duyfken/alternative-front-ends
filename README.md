@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -62,6 +62,17 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://irssi.org/download/)
    - [x] Linux and Windows
+
+- **Nora**
+
+   - Nora is an Android, iOS, and desktop browser optimised for social network services. 
+   It keeps the original service websites while adding native conveniences like separate account storage, blocklists, download tools, URL cleanup, and CSS customisation.
+   - [Official Website](https://oss.nonbili.jp/nora/) | [Repo](https://github.com/nonbili/Nora-Desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://oss.nonbili.jp/nora/install/)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+   ⓘ Nora currently supports Bluesky, Facebook, Instagram, LinkedIn, Reddit, Threads, TikTok, Tumblr, VK and X (Twitter).
 
 - **Pidgin**
 
@@ -687,14 +698,6 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
    - [x] Linux
 
-- **Whalebird**
-
-   - Whalebird is a Fediverse client app for desktop.
-   - [Official Website](https://whalebird.social/) | [Repo](https://github.com/h3poteto/whalebird-desktop)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/h3poteto/whalebird-desktop#install)
-   - [x] Linux, Mac and Windows
-
 
 ### Matrix
 
@@ -741,6 +744,14 @@ Based on ArmCord.
    - [x] Linux
 
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
+
+- **FluffyChat**
+
+   - FluffyChat is an open source, nonprofit and cute [matrix] client written in Flutter. The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
+   - [Official Website](https://fluffychat.im/) | [Repo](https://github.com/krille-chan/fluffychat)
+   - [x] Open Source
+   - [x] [Download for free](https://fluffy.chat/)
+   - [x] Linux, Mac and Windows + Android and iOS + Web
 
 - **Fractal**
 
@@ -848,6 +859,52 @@ Based on ArmCord.
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Pidgin** [(see Multi-service apps section)](#multi-service-apps)
+
+
+### Misskey
+
+- **Aria**
+
+   - A Misskey client app forked from Miria.
+   - Official Website (N/A) | [Repo](https://github.com/poppingmoon/aria)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/poppingmoon/aria#download)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+- **Kimis**
+
+   - Kimis is a client for Misskey built with pure UIKit for quality.
+   - Official Website (N/A) | [Repo](https://github.com/Lakr233/Kimis)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)
+   - [x] Mac + iOS
+
+
+### Nostr
+
+- **0xchat**
+
+   - 0xchat is a secure, decentralised, Nostr-powered chat application. Your data, your control. No registration, no phone number, no corporate surveillance. Just private key login and true privacy.
+   - [Official Website](https://0xchat.com/) | [Repo](https://github.com/0xchat-app/0xchat-app-main)
+   - [x] Open Source
+   - [x] [Download for free](https://0xchat.com/download)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+- **Nostrmo**
+
+   - A flutter nostr client for Android, iOS, MacOS, Windows, Web and Linux.
+   - Official Website (N/A) | [Repo](https://github.com/haorendashu/nostrmo)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/haorendashu/nostrmo_faq#getting-started)
+   - [x] Linux, Mac and Windows + Web + Android and iOS
+
+- **Nostur**
+
+   - A nostr client for Mac and iOS.
+   - [Official Website](https://nostur.com/) | [Repo](https://github.com/nostur-com/nostur-ios-public)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/us/app/nostur-nostr-client/id1672780508)
+   - [x] Mac + iOS
 
 
 ### Plex
@@ -1343,6 +1400,14 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://apps.kde.org/audiotube/)
    - [x] Linux
+
+- **NouTube**
+
+   - YouTube and YouTube Music in a single app. No ads, plays in the background.
+   - [Official Website](https://oss.nonbili.jp/noutube) | [Repo](https://github.com/nonbili/NouTube-Desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://oss.nonbili.jp/noutube/install/)
+   - [x] Linux, Mac and Windows + Android
 
 - **YouTube Music**
 
