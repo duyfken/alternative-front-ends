@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -310,6 +310,7 @@ ___
    - Public Instances (N/A)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/krille-chan/fluffychat/wiki/How-To-Build)
+   - [x] Web +  Android and iOS + Linux, Mac and Windows
 
 - **Hydrogen**
 
@@ -365,6 +366,61 @@ ___
    - [Public Instances](https://git.private.coffee/PrivateCoffee/small#instances)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://git.private.coffee/PrivateCoffee/small#installation)
+
+
+### Nostr
+
+- **Coracle**
+
+   - Coracle is a web client for the Nostr protocol focused on pushing the boundaries of what's unique about nostr, including relay selection and management, web-of-trust based moderation and content recommendations, and privacy protection.
+   - [Official Instance](https://coracle.social/) | [Repo](https://github.com/coracle-social/coracle)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/coracle-social/coracle#run-coracle-locally)
+
+- **Ditto**
+
+   - Your content. Your vibe. Your rules. A fun, customizable Nostr client that puts you in control.
+   - [Official Instance](https://ditto.pub/) | [Repo](https://gitlab.com/soapbox-pub/ditto)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://gitlab.com/soapbox-pub/ditto#getting-started)
+
+- **nospeak**
+
+   - nospeak is a decentralised Nostr chat client for secure, private messaging. It is easy to use but has state of the art end-to-end encryption without metadata leakage.
+   - [Official Instance](https://nospeak.chat/) | [Repo](https://github.com/psic4t/nospeak)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/psic4t/nospeak#quick-start)
+   - [x] Web + Android
+
+- **Nostrmo**
+
+   - A flutter nostr client for Android, iOS, MacOS, Windows, Web and Linux.
+   - [Official Instance](https://web.nostrmo.com/) | [Repo](https://github.com/haorendashu/nostrmo)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/haorendashu/nostrmo#build-script)
+   - [x] Web + Android and iOS + Linux, Mac and Windows
+
+- **Primal**
+
+   - Featuring easy onboarding, fast & snappy UI, ability to explore Nostr, and create & manage custom feeds 
+   - [Official Instance](https://primal.net/) | [Repo](https://github.com/PrimalHQ/primal-web-app)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/PrimalHQ/primal-web-app#getting-started)
+   - [x] Web + Android and iOS
+
+- **Snort**
+
+   - Snort is a nostr UI built with React aiming for speed and efficiency.
+   - [Official Instance](https://phoenix.social/) | [Repo](https://github.com/v0l/snort)
+   - [x] Open Source
+
+- **Yakihonne**
+
+   - YakiHonne is an open-source social client built on Nostr, dedicated to delivering a high-performance and user-friendly experience while preserving decentralisation and censorship resistance.
+   - [Official Instance](https://yakihonne.com/) | [Repo](https://github.com/YakiHonne/web-app)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/YakiHonne/web-app#getting-started)
+   - [x] Web + Android and iOS
 
 
 ### Odysee
