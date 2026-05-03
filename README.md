@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -36,6 +36,46 @@ ___
 
    ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter).
 
+- **Dhaaga**
+
+   - Dhaaga is a fediverse social app for smartphones, which adds a lot of cool and unique client-side functionalities. It focuses on making it easy to chat and make friends, adds superior offline support and makes the friendiverse intuitive and fun to use for all users, new and old.
+   - [Official Website](https://suvam.io/dhaaga) | [Repo](https://github.com/suvam0451/dhaaga)
+   - [x] Open Source
+   - [x] [Download for free](https://suvam.io/dhaaga)
+   - [x] Android
+
+   ⓘ Dhaaga currently supports Bluesky, Mastodon, Misskey, Pleroma and Akkoma.
+
+- **FediLab**
+
+   - Fedilab is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting.
+   - [Official Website](https://fedilab.app/) | [Repo](https://codeberg.org/tom79/Fedilab)
+   - [x] Open Source
+   - [x] [Download for free](https://codeberg.org/tom79/Fedilab#download)
+   - [x] Android
+
+   ⓘ Fedilab currently supports GNU Social, Mastodon, Misskey, Peertube, Pleroma, Friendica and Pixelfed.
+
+- **Flare**
+
+   - Flare is an open-source, privacy-first social client that brings Mastodon, Misskey, Bluesky, X, Nostr, and RSS into one unified timeline. It supports cross-posting, lists, feeds, DMs, RSS management, and AI-powered features such as translation and summaries. Built with Kotlin Multiplatform, Flare shares its core logic across Android, iOS, macOS, Windows, and Linux, turning fragmented social feeds into a personal information hub.
+   - [Official Website](https://flareapp.moe/) | [Repo](https://github.com/DimensionDev/Flare)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/DimensionDev/Flare#flare)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+   ⓘ Flare currently supports Mastodon, Misskey, Bluesky, X (Twitter), Nostr and RSS.
+
+- **Fread**
+
+   - Fread is a decentralised microblogging client that seamlessly integrates Mastodon, Bluesky, and RSS — all in one place.
+   - Official Website (N/A) | [Repo](https://github.com/0xZhangKe/Fread)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/0xZhangKe/Fread#fread)
+   - [x] Android
+
+   ⓘ Fread currently supports Bluesky, Mastodon and RSS.
+
 - **Grayjay**
 
    - Grayjay is an app that serves as a video player and source aggregator. It allows you to stream and organise videos from various sources, providing a unified platform for your entertainment needs.
@@ -45,6 +85,17 @@ ___
    - [x] Android + Linux, Mac and Windows
 
    ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
+
+- **Nora**
+
+   - Nora is an Android, iOS, and desktop browser optimised for social network services. 
+   It keeps the original service websites while adding native conveniences like separate account storage, blocklists, download tools, URL cleanup, and CSS customisation.
+   - [Official Website](https://oss.nonbili.jp/nora/) | [Repo](https://github.com/nonbili/Nora)
+   - [x] Open Source
+   - [x] [Download for free](https://oss.nonbili.jp/nora/install/)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+   ⓘ Nora currently supports Bluesky, Facebook, Instagram, LinkedIn, Reddit, Threads, TikTok, Tumblr, VK and X (Twitter).
 
 - **SoundCrowd**
 
@@ -65,6 +116,17 @@ ___
    - [x] Android
 
    ⓘ Symfonium currently supports playing media from Plex, Emby, Jellyfin, Subsonic, OpenSubsonic, Kodi, Samba (SMB v2/v3), WebDAV servers and supported Cloud providers (Google Drive, OneDrive, DropBox, Box, pCloud).
+
+
+### Bluesky
+
+- **Dhaaga** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Flare** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Fread** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Nora** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Discord
@@ -100,6 +162,8 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/ycngmn/Nobook#-installation)
    - [x] Android
+
+- **Nora** [(see Multi-service apps section)](#multi-service-apps)
 
 - **SlimSocial for Facebook**
 
@@ -398,21 +462,9 @@ ___
    - [x] [Download for free](https://apps.apple.com/app/id6477757490)
    - [x] iOS
 
-- **Dhaaga**
+- **Dhaaga** [(see Multi-service apps section)](#multi-service-apps)
 
-   - Dhaaga is a fediverse social app for smartphones, which adds a lot of cool and unique client-side functionalities. It focuses on making it easy to chat and make friends, adds superior offline support and makes the friendiverse intuitive and fun to use for all users, new and old.
-   - [Official Website](https://dhaaga.app/) | [Repo](https://github.com/suvam0451/dhaaga)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/suvam0451/dhaaga)
-   - [x] Android
-
-- **FediLab**
-
-   - Fedilab is a multi-accounts client for Mastodon, Pleroma, Friendica and Pixelfed.
-   - Official Website (N/A) | [Repo](https://codeberg.org/tom79/Fedilab)
-   - [x] Open Source
-   - [x] [Download for free](https://codeberg.org/tom79/Fedilab#download)
-   - [x] Android
+- **Fedilab** [(see Multi-service apps section)](#multi-service-apps)
 
 - **FocusMastodon**
 
@@ -421,6 +473,10 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/allentown521/FocusMastodon#focusmastodon)
    - [x] Android
+
+- **Flare** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Fread** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Ice Cubes** :moneybag:
 
@@ -571,6 +627,14 @@ ___
    - [x] [Download for free](https://element.io/labs/element-x)
    - [x] Android and iOS
 
+- **FluffyChat**
+
+   - FluffyChat is an open source, nonprofit and cute [matrix] client written in Flutter. The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
+   - [Official Website](https://fluffychat.im/) | [Repo](https://github.com/krille-chan/fluffychat)
+   - [x] Open Source
+   - [x] [Download for free](https://fluffy.chat/)
+   - [x] Android and iOS + Linux, Mac and Windows + Web
+
 - **Quadrix**
 
    - Minimal, simple, multi-platform chat client for the Matrix protocol.
@@ -594,6 +658,116 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/syphon-org/syphon/releases)
    - [x] Android and iOS + Linux, Mac and Windows
+
+
+### Misskey
+
+- **Aria**
+
+   - A Misskey client app forked from Miria.
+   - Official Website (N/A) | [Repo](https://github.com/poppingmoon/aria)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/poppingmoon/aria#download)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+- **Dhaaga** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Fedilab** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Flare** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Kimis**
+
+   - Kimis is a client for Misskey built with pure UIKit for quality.
+   - Official Website (N/A) | [Repo](https://github.com/Lakr233/Kimis)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)
+   - [x] iOS + Mac
+
+
+### Nostr
+
+- **0xchat**
+
+   - 0xchat is a secure, decentralised, Nostr-powered chat application. Your data, your control. No registration, no phone number, no corporate surveillance. Just private key login and true privacy.
+   - [Official Website](https://0xchat.com/) | [Repo](https://github.com/0xchat-app/0xchat-app-main)
+   - [x] Open Source
+   - [x] [Download for free](https://0xchat.com/download)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+- **Amethyst**
+
+   - A privacy-focused Nostr client for Android. Built-in TOR support, the most configurable relay system, encrypted messaging, zaps, live streams and complete data sovereignty.
+   - [Official Website](https://amethyst.social/) | [Repo](https://github.com/vitorpamplona/amethyst)
+   - [x] Open Source
+   - [x] [Download for free](https://amethyst.social/#download)
+   - [x] Android
+
+- **Citrine**
+
+   - Citrine is a Nostr relay for android. It allows any Nostr client that supports Android to send and receive events from this application.
+   - Official Website (N/A) | [Repo](https://github.com/dluvian/voyage)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/greenart7c3/Citrine#download)
+   - [x] Android
+
+- **Damus**
+
+   - The social network you control. A Twitter-like nostr client for iPhone, iPad and MacOS (currently not verified for MacOS).
+   - [Official Website](https://damus.io/) | [Repo](https://github.com/damus-io/damus)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/us/app/damus/id1628663131)
+   - [x] iOS
+
+- **Flare** [(see Multi-service apps section)](#multi-service-apps)
+
+- **nospeak**
+
+   - nospeak is a decentralised Nostr chat client for secure, private messaging. It is easy to use but has state of the art end-to-end encryption without metadata leakage.
+   - [Official Website](https://nospeak.chat/) | [Repo](https://github.com/psic4t/nospeak)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/psic4t/nospeak#nospeak)
+   - [x] Android + Web
+
+- **Nostrmo**
+
+   - A flutter nostr client for Android, iOS, MacOS, Windows, Web and Linux.
+   - Official Website (N/A) | [Repo](https://github.com/haorendashu/nostrmo)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/haorendashu/nostrmo_faq#getting-started)
+   - [x] Android and iOS + Linux, Mac and Windows + Web
+
+- **Nostur**
+
+   - A nostr client for iOS and Mac.
+   - [Official Website](https://nostur.com/) | [Repo](https://github.com/nostur-com/nostur-ios-public)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/us/app/nostur-nostr-client/id1672780508)
+   - [x] iOS + Mac
+
+- **Primal**
+
+   - Featuring easy onboarding, fast & snappy UI, ability to explore Nostr, and create & manage custom feeds 
+   - [Official Instance](https://primal.net/) | [Android Repo](https://github.com/PrimalHQ/primal-android-app) [iOS Repo](https://github.com/PrimalHQ/primal-ios-app)
+   - [x] Open Source
+   - [x] [Download for free](https://primal.net/downloads)
+   - [x] Android and iOS + Web
+
+- **Yakihonne**
+
+   - YakiHonne is an open-source social client built on Nostr, dedicated to delivering a high-performance and user-friendly experience while preserving decentralisation and censorship resistance.
+   - [Official Website](https://yakihonne.com/) | [Repo](https://github.com/YakiHonne/mobile-app)
+   - [x] Open Source
+   - [x] [Download for free](https://yakihonne.com/yakihonne-mobile-app)
+   - [x] Android and iOS + Web
+
+- **Zemzeme**
+
+   - Zemzeme is a fork of bitchat for Android, extended with a second internet-capable transport layer built on libp2p. It supports three independent communication methods that can operate simultaneously: offline Bluetooth mesh, direct peer-to-peer over the internet (via libp2p + ICE), and relay-based messaging via the Nostr protocol. All messages are end-to-end encrypted. No registration, no phone number, no central server.
+   - [Official Website](https://zemzeme.app/) | [Repo](https://github.com/whisperbit-labs/zemzeme-android)
+   - [x] Open Source
+   - [x] [Download for free](https://www.zemzeme.app/download.html)
+   - [x] Android
 
 
 ### Reddit
@@ -631,6 +805,8 @@ ___
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/app/id845422455)
    - [x] iOS
+
+- **Nora** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Now for Reddit** 💰
 
@@ -840,6 +1016,10 @@ ___
 
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Flare** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Nora** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Quacker**
 
    - Quacker is a more private and clean way to browse Twitter/X. This also includes feed viewing, subscription grouping, offline tweet saving and more! 
@@ -1013,6 +1193,14 @@ ___
    - [x] [Download for free](https://github.com/namidaco/namida#installation)
    - [x] Android
 
+- **NouTube**
+
+   - YouTube and YouTube Music in a single app. No ads, plays in the background.
+   - [Official Website](https://oss.nonbili.jp/noutube) | [Repo](https://github.com/nonbili/NouTube)
+   - [x] Open Source
+   - [x] [Download for free](https://oss.nonbili.jp/noutube/install/)
+   - [x] Android + Linux, Mac and Windows
+
 - **OuterTune**
 
    - A Material 3 YouTube Music client & local music player for Android. OuterTune is a supercharged fork of InnerTune, with advanced account synchronisation, local media playback, multiple queues, and a new take on UI design.
@@ -1091,6 +1279,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Discord is a trademark of Discord Inc. Facebook and Messenger are trademarks of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Discord is a trademark of Discord Inc. Facebook and Messenger are trademarks of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
