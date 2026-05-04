@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
+[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
