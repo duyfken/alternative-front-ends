@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
