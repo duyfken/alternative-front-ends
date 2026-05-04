@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
+[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -70,6 +70,31 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/jellyfin/swiftfin#%EF%B8%8F-download)
    - [x] Apple tvOS + iOS
+
+
+### Subsonic/Navidrome
+
+- **melia** :moneybag:
+
+   - melia is a tvOs app that allows to explore, browse and play your subsonic library.
+   - [ ] Closed Source
+   - [ ] [Download for USD$2.99](https://apps.apple.com/app/melia/id6760968937)
+   - [x] Apple tvOS
+
+- **NaviBeat** :moneybag:
+
+   - A native Apple-ecosystem player for Subsonic, OpenSubsonic, and Navidrome — iPhone, iPad, Mac, Apple TV, and Apple Watch all from one Universal Purchase. Time-synced lyrics, Mini Player on Mac with pin-on-top, full focus engine on Apple TV, offline downloads, gapless playback, and AirPlay throughout. Currently in public TestFlight ahead of the App Store launch.
+   - [Official Website](https://navibeat.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Join the TestFlight for free](https://testflight.apple.com/join/N7Fa1NtG)
+   - [x] Apple tvOS + iOS + Mac
+
+- **SubSwift** :moneybag:
+
+   - A minimalist client for Apple TV to stream music from Subsonic-compatible servers. Features a clean SwiftUI interface, home view with recently played and new albums, unified search, and streaming codec control.
+   - [ ] Closed Source
+   - [ ] [Download for USD$4.99](https://apps.apple.com/app/subswift/id6504658929)
+   - [x] Apple tvOS
 
 
 ### Twitch
@@ -181,6 +206,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Twitch is a trademark of Amazon.com, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Subsonic is a trademark of Subsonic AS. Twitch is a trademark of Amazon.com, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
