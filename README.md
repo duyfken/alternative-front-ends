@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -903,6 +903,101 @@ ___
    - [x] Android + Linux, Mac and Windows
 
 
+### Subsonic/Navidrome
+
+- **Airdrome**
+
+   - Modern self-hosted Progressive Web App for (Open)Subsonic music servers. Features responsive desktop/mobile UI, persistent playback queue, dynamic playlist support, Session integration, gapless playback and persistant cache management.
+   - Official Website (N/A) | [Repo](https://github.com/JPGuillemin/Airdrome)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/JPGuillemin/Airdrome/releases)
+   - [x] Android + Web
+
+- **Amperfy**
+
+   - Amperfy is an iOS/iPadOS/macOS app written in Swift to interact with an Ampache or Subsonic server.
+   - Official Website (N/A) | [Repo](https://github.com/BLeeEZ/amperfy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/BLeeEZ/amperfy#basics)
+   - [x] iOS + Mac
+
+- **Castafiore**
+
+   - Castafiore is a powerful and modern music streaming client designed for seamless integration with Navidrome and all servers supporting the Subsonic API. Enjoy your personal music collection anywhere with a fast, intuitive, and feature-rich mobile experience.
+   - [Official Website](https://sawyerf.github.io/Castafiore/) | [Repo](https://github.com/sawyerf/Castafiore)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/sawyerf/Castafiore)
+   - [x] Android + Web
+
+- **Musly**
+
+   - Musly is a free Navidrome client and Subsonic music player with a beautiful Apple Music-inspired interface. Stream your self-hosted music library from Navidrome, Subsonic, or Airsonic servers on Android, iOS, Windows, Linux, and macOS.
+   - [Official Website](https://musly.devid.lol/) | [Repo](https://github.com/dddevid/Musly)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dddevid/Musly/releases)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+- **Nautiline**
+
+   - An iOS app for streaming music from your OpenSubsonic-compatible library.
+   - [Official Website](https://nautiline.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/nautiline-opensubsonic-client/id6755918140)
+   - [x] iOS
+
+- **NaviBeat** :moneybag:
+
+   - A native Apple-ecosystem player for Subsonic, OpenSubsonic, and Navidrome — iPhone, iPad, Mac, Apple TV, and Apple Watch all from one Universal Purchase. Time-synced lyrics, Mini Player on Mac with pin-on-top, full focus engine on Apple TV, offline downloads, gapless playback, and AirPlay throughout. Currently in public TestFlight ahead of the App Store launch.
+   - [Official Website](https://navibeat.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Join the TestFlight for free](https://testflight.apple.com/join/N7Fa1NtG)
+   - [x] iOS + Mac + Apple tvOS
+
+- **Navic**
+
+   - A modern Navidrome client for Android and iOS.
+   - [Official Website](https://navic.app/) | [Repo](https://github.com/paigely/Navic)
+   - [x] Open Source
+   - [x] [Download for free](https://navic.app/downloads/)
+   - [x] Android and iOS
+
+- **play:Sub Music Streamer** :moneybag:
+
+   - play:Sub lets you stream your music from your home computer or NAS to your iPhone, iPad or iPod Touch - everywhere you go, your music goes too. Connect play:Sub to your Subsonic server and enjoy your music - everywhere, anytime.
+   - [Official Website](https://michaelsapps.dk/playsubapp/) | Repo (N/A)
+   - [ ] Closed Source
+   - [ ] [Download for USD$4.99](https://apps.apple.com/app/play-sub-music-streamer/id955329386)
+   - [x] iOS
+
+- **Substreamer**
+
+   - Substreamer is a free, open-source music streamer for your personal Subsonic-compatible server. Stream, browse, and download your entire music library on Android - no ads, no subscriptions, and no data collection.
+   - Official Website (N/A) | [Repo](https://github.com/ghenry22/substreamer)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/ghenry22/substreamer)
+   - [x] Android and iOS
+
+- **Tempus**
+
+   - Tempus is an open-source and lightweight music client for Subsonic, designed and built natively for Android. It provides a seamless and intuitive music streaming experience, allowing you to access and play your Subsonic music library directly from your Android device.
+   - [Official Website](https://eddyizm.github.io/tempus/) | [Repo](https://github.com/eddyizm/tempus)
+   - [x] Open Source
+   - [x] [Download for free](https://eddyizm.github.io/tempus/)
+   - [x] Android
+
+- **Symfonium** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Vibrdrome**
+
+   - Native music player for iOS, Android, and Web. Gapless playback, 10-band EQ, audio-reactive visualisers, synced lyrics, CarPlay/Android Auto, offline downloads, customisable library, and multi-server support.
+   - [Official Website](https://vibrdrome.io/) | [Repo](https://github.com/ddmoney420/vibrdrome)
+   - [x] Open Source
+   - [x] [Download for free](https://vibrdrome.io/#download)
+   - [x] Android and iOS + Web
+
+   ⓘ Vibrdrome was "vibe coded" (Claude Code AI wrote all the code).
+
+
 ### Telegram
 
 - **Beeper** [(see Multi-service apps section)](#multi-service-apps)
@@ -1279,6 +1374,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Discord is a trademark of Discord Inc. Facebook and Messenger are trademarks of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Discord is a trademark of Discord Inc. Facebook and Messenger are trademarks of Meta Platforms. Google Play is a trademark of Google LLC. Mastodon is a trademark of Mastodon GmbH. Reddit is a trademark of Reddit Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. Spotify is a trademark of Spotify AB. Subsonic is a trademark of Subsonic AS. Telegram is a trademark of Telegram FZ LLC. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter, Inc. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
