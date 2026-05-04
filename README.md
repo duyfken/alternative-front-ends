@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service](#multi-service) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -35,6 +35,14 @@ ___
 
    ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter).
 
+- **Feishin**
+
+   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers.
+   - [Official Website](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jeffvli/feishin?tab=readme-ov-file#getting-started)
+   - [x] Linux, Mac and Windows + Web
+
 - **Ferdium**
 
    - All your services in one place, built by the community. 
@@ -44,6 +52,14 @@ ___
    - [x] Linux, Mac and Windows
 
    ⓘ Ferdium currently supports ***over 350 services***, including all the usual suspects, and even allows anyone to create a custom service!
+
+- **Gelly**
+
+   - A native, lightweight music client for Jellyfin and Subsonic. Built with Rust and GTK.
+   - Official Website (N/A) | [Repo](https://github.com/Fingel/gelly)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Fingel/gelly#installation)
+   - [x] Linux
 
 - **Grayjay**
 
@@ -62,6 +78,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://irssi.org/download/)
    - [x] Linux and Windows
+
+- **Nocturne**
+
+   - Nocturne is a Navidrome/Jellyfin client that brings all your music together in one place, Nocturne not only connects to existing instances but it's capable of installing and managing it's own Navidrome instance.
+   - [Official Website](https://jeffser.com/nocturne) | [Repo](https://github.com/Jeffser/Nocturne)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/com.jeffser.Nocturne)
+   - [x] Linux
 
 - **Nora**
 
@@ -93,6 +117,22 @@ ___
    - [x] Linux, Mac and Windows
 
    ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
+
+- **Supersonic**
+
+   - A lightweight and full-featured cross-platform desktop client for self-hosted Jellyfin and Subsonic API music servers.
+   - Official Website (N/A) | [Repo](https://github.com/dweymouth/supersonic)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dweymouth/supersonic#installation)
+   - [x] Linux, Mac and Windows
+
+- **Tributary**
+
+   - A high-performance, Rhythmbox-style media manager written in pure Rust with GTK4 and libadwaita. Tributary provides a unified interface for managing and streaming music from multiple sources - local files, Subsonic/Navidrome, Jellyfin, Plex, DAAP/iTunes shares, and internet radio - all through a single, responsive library view.
+   - Official Website (N/A) | [Repo](https://github.com/jm2/tributary)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/jm2/tributary#installation)
+   - [x] Linux, Mac and Windows
 
 - **WeeChat**
 
@@ -526,13 +566,7 @@ Based on ArmCord.
    - [x] [Download for free](https://delfin.avery.cafe/downloads)
    - [x] Linux
 
-- **Feishin**
-
-   - A modern self-hosted music player using NodeJS.
-   - Official Website (N/A) | [Repo](https://github.com/jeffvli/feishin)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/jeffvli/feishin?tab=readme-ov-file#getting-started)
-   - [x] Linux, Mac and Windows
+- **Feishin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Finamp**
 
@@ -549,6 +583,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/DonutWare/Fladder#download)
    - [x] Linux, Mac and Windows + Android
+
+- **Gelly** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Infuse**
 
@@ -568,13 +604,7 @@ Based on ArmCord.
 
    ⓘ Manet on MacOS requires the purchase of Manet+ for USD$9.99
 
-- **Nocturne**
-
-   - Nocturne is a Navidrome / Jellyfin client that brings all your music together in one place, Nocturne not only connects to existing instances but it's capable of installing and managing it's own Navidrome instance.
-   - [Official Website](https://jeffser.com/nocturne) | [Repo](https://github.com/Jeffser/Nocturne)
-   - [x] Open Source
-   - [x] [Download for free](https://flathub.org/apps/com.jeffser.Nocturne)
-   - [x] Linux
+- **Nocturne** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Qcm**
 
@@ -584,13 +614,7 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/apps/details/io.github.hypengw.Qcm)
    - [x] Linux
 
-- **Supersonic**
-
-   - A lightweight and full-featured cross-platform desktop client for self-hosted music servers.
-   - Official Website (N/A) | [Repo](https://github.com/jeffvli/feishin)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/dweymouth/supersonic#installation)
-   - [x] Linux, Mac and Windows
+- **Supersonic** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Switchfin**
 
@@ -607,6 +631,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
    - [x] Linux and Windows
+
+- **Tributary** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Lemmy
@@ -1068,6 +1094,91 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 
+### Subsonic/Navidrome
+
+- **ampcast**
+
+   - A music player inspired by Winamp. Supports Plex, Jellyfin, and Subsonic/Navidrome servers. Additional support is also provided for Apple Music, Spotify and YouTube.
+   - [Official Website](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rekkyrosso/ampcast/releases)
+   - [x] Linux, Mac and Windows + Web
+
+- **Amperfy**
+
+   - Amperfy is an iOS/iPadOS/macOS app written in Swift to interact with an Ampache or Subsonic server.
+   - Official Website (N/A) | [Repo](https://github.com/BLeeEZ/amperfy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/BLeeEZ/amperfy#basics)
+   - [x] Mac + iOS
+
+- **Aonsoku**
+
+   - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
+   - [Official Website](https://aonsoku.vercel.app/) | [Repo](https://github.com/victoralvesf/aonsoku)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/victoralvesf/aonsoku)
+   - [x] Linux, Mac and Windows + Web
+
+- **Feishin** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Gelly** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Musly**
+
+   - Musly is a free Navidrome client and Subsonic music player with a beautiful Apple Music-inspired interface. Stream your self-hosted music library from Navidrome, Subsonic, or Airsonic servers on Android, iOS, Windows, Linux, and macOS.
+   - [Official Website](https://musly.devid.lol/) | [Repo](https://github.com/dddevid/Musly)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/dddevid/Musly/releases)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+- **NaviBeat** :moneybag:
+
+   - A native Apple-ecosystem player for Subsonic, OpenSubsonic, and Navidrome — iPhone, iPad, Mac, Apple TV, and Apple Watch all from one Universal Purchase. Time-synced lyrics, Mini Player on Mac with pin-on-top, full focus engine on Apple TV, offline downloads, gapless playback, and AirPlay throughout. Currently in public TestFlight ahead of the App Store launch.
+   - [Official Website](https://navibeat.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Join the TestFlight for free](https://testflight.apple.com/join/N7Fa1NtG)
+   - [x] Mac + Apple tvOS + iOS
+
+- **Nocturne** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Psysonic**
+
+   - Psysonic is a modern desktop client built primarily for Navidrome. It brings a fast, polished and comfortable listening experience to self-hosted music collections.
+   - [Official Website](https://www.psysonic.de/) | [Repo](https://github.com/Psychotoxical/psysonic)
+   - [x] Open Source
+   - [x] [Download for free](https://www.psysonic.de/downloads/)
+   - [x] Linux, Mac and Windows
+
+- **SubTUI**
+
+   - SubTUI is your next favorite lightweight, terminal-based music player for Subsonic-compatible servers like Navidrome, Gonic, and Airsonic. Built with Go and the Bubble Tea framework, it provides a clean terminal interface to listen to your favorite high-quality audio.
+   - Official Website (N/A) | [Repo](https://github.com/MattiaPun/SubTUI)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/MattiaPun/SubTUI#installation)
+   - [x] Linux
+
+- **Strawberry**
+
+   - Strawberry is a music player and music collection organiser, originally forked from Clementine in 2018. It's written in C++ using the Qt framework, designed for audiophiles and music collectors.
+   - [Official Website](https://www.strawberrymusicplayer.org/) | [Repo](https://github.com/strawberrymusicplayer/strawberry)
+   - [x] Open Source
+   - [x] [Download for free](https://www.strawberrymusicplayer.org/#download)
+   - [x] Linux, Mac and Windows
+
+- **Supersonic** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Termsonic**
+
+   - A terminal-based user interface (TUI) client for Subsonic-compatible servers. Features browsing by artists and albums, playlist management, play queue control, and playback support for OGG, FLAC, and MP3 files.
+   - Official Website (N/A) | [Repo](https://git.sixfoisneuf.fr/termsonic/about/)
+   - [x] Open Source
+   - [x] [Download for free](https://git.sixfoisneuf.fr/termsonic/about/#installing)
+   - [x] Linux and Windows
+
+- **Tributary** [(see Multi-service apps section)](#multi-service-apps)
+
+
 ### Telegram
 
 - **64Gram**
@@ -1449,6 +1560,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Plex is a trademark of Plex, Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Plex is a trademark of Plex, Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Subsonic is a trademark of Subsonic AS. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
