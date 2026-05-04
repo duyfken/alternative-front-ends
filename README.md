@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -594,6 +594,72 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment)
 
 
+### Subsonic/Navidrome
+
+- **Airsonic Refix**
+
+   - Modern responsive web frontend for Subsonic-compatible music servers. Features responsive desktop/mobile UI, persistent playback queue, playlist management with drag-and-drop, MediaSession integration, internet radio, and podcast support.
+   - [Official Instance](https://airsonic-refix.netlify.app/) | [Repo](https://github.com/tamland/airsonic-refix)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/tamland/airsonic-refix#install)
+
+- **Airdrome**
+
+   - Modern self-hosted Progressive Web App for (Open)Subsonic music servers. Features responsive desktop/mobile UI, persistent playback queue, dynamic playlist support, Session integration, gapless playback and persistant cache management.
+   - Official Instance (N/A) | [Repo](https://github.com/JPGuillemin/Airdrome)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/JPGuillemin/Airdrome#run-from-docker-hub)
+   - [x] Web + Android
+
+- **ampcast**
+
+   - A music player inspired by Winamp. Supports Plex, Jellyfin, and Subsonic/Navidrome servers. Additional support is also provided for Apple Music, Spotify and YouTube.
+   - [Official Instance](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/rekkyrosso/ampcast#self-hosting)
+   - [x] Web + Linux, Mac and Windows
+
+- **Aonsoku**
+
+   - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
+   - [Official Instance](https://aonsoku.vercel.app/) | [Repo](https://github.com/victoralvesf/aonsoku)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/victoralvesf/aonsoku#getting-started)
+   - [x] Web + Linux, Mac and Windows
+
+- **Castafiore**
+
+   - Castafiore is a powerful and modern music streaming client designed for seamless integration with Navidrome and all servers supporting the Subsonic API. Enjoy your personal music collection anywhere with a fast, intuitive, and feature-rich mobile experience.
+   - [Official Instance](https://sawyerf.github.io/Castafiore/) | [Repo](https://github.com/sawyerf/Castafiore)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/sawyerf/Castafiore#build-locally)
+   - [x] Web + Android
+
+- **Feishin**
+
+   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers.
+   - [Official Instance](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/jeffvli/feishin#getting-started)
+   - [x] Web + Linux, Mac and Windows
+
+- **tinysub**
+
+   - A simple but full-featured web player for Open Subsonic compatible music servers, inspired by Strawberry with a unique queue-focused design.
+   - [Official Instance](https://tinysub.devins.page/) | [Repo](https://tangled.org/devins.page/tinysub)
+   - [x] Open Source
+
+- **Vibrdrome**
+
+   - Native music player for iOS, Android, and Web. Gapless playback, 10-band EQ, audio-reactive visualisers, synced lyrics, CarPlay/Android Auto, offline downloads, customisable library, and multi-server support.
+   - [Official Instance](https://web.vibrdrome.io/) | [Repo](https://github.com/ddmoney420/vibrdrome)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/ddmoney420/vibrdrome#build-instructions)
+   - [x] Web + Android and iOS
+
+   ⓘ Vibrdrome was "vibe coded" (Claude Code AI wrote all the code).
+
+
 ### Tiktok
 
 - **ProxiTok**
@@ -851,6 +917,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Subsonic is a trademark of Subsonic AS. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
