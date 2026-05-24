@@ -97,6 +97,14 @@ ___
 
    ⓘ Nora currently supports Bluesky, Facebook, Instagram, LinkedIn, Reddit, Threads, TikTok, Tumblr, VK and X (Twitter).
 
+- **Plezy**
+
+   - A modern client for Plex and Jellyfin on desktop, mobile, and TV. Built with Flutter for native performance and a clean interface.
+   - [Official Website](https://plezy.app/) | [Repo](https://github.com/edde746/plezy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/edde746/plezy#download)
+   - [x] Android and iOS + Linux, Mac and Windows + Android TV and Apple tvOS
+
 - **SoundCrowd**
 
    - SoundCrowd is a free, open-source and lightweight music player for Android in modern material design, specialised for playing long music tracks (DJ mixes, live sets, audio books). It features the generation of waveforms that visualise your music tracks during playback and can be used for precise seeking through gestures.
@@ -340,7 +348,7 @@ ___
    - Official Website (N/A) | [Repo](https://github.com/DonutWare/Fladder)
    - [x] Open Source
    - [x] [Download for free](https://github.com/DonutWare/Fladder#download)
-   - [x] Android + Linux, Mac and Windows
+   - [x] Android and iOS + Linux, Mac and Windows
 
 - **Gelli**
 
@@ -383,6 +391,16 @@ ___
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/us/app/manet-music/id6470928235?platform=iphone)
    - [x] iOS + Mac
+
+- **Moonfin**
+
+   - Moonfin is a cross-platform media client built with Flutter, designed for Jellyfin and Emby users who want a modern, customizable experience across mobile, tablet, and desktop platforms.
+   - Official Website (N/A) | [Repo](https://github.com/Moonfin-Client/Mobile-Desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Moonfin-Client/Mobile-Desktop#installation)
+   - [x] Android and iOS + Linux, Mac and Windows + Android TV, Apple tvOS, LG WebOS TV, Roku and Samsung TizenOS TV
+
+- **Plezy** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Streamyfin**
 
