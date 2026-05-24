@@ -17,12 +17,23 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt these front-ends.
 ___
+### Multi-service apps
+
+- **Plezy**
+
+   - A modern client for Plex and Jellyfin on desktop, mobile, and TV. Built with Flutter for native performance and a clean interface.
+   - [Official Website](https://plezy.app/) | [Repo](https://github.com/edde746/plezy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/edde746/plezy#download)
+   - [x] Android TV and Apple tvOS + Android and iOS + Linux, Mac and Windows
+
+
 ### F-Droid
 
 - **APKUpdater**
@@ -55,21 +66,77 @@ ___
 
 ### Jellyfin
 
+- **DUNE**
+
+   - DUNE is a modified version of the official Jellyfin Android TV client with enhanced UI/UX and additional customisation options.
+   - Official Website (N/A) | [Repo](https://github.com/Sam42a/DUNE)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Sam42a/DUNE/releases)
+   - [x] Android TV
+
+- **Elefin**
+
+   - Elefin is a modern Android TV Jellyfin client built from the ground up using Jetpack Compose for TV. It offers a polished Material Design 3 interface optimised for television viewing with professional-grade performance on all Android TV devices including NVIDIA Shield, ONN 4K, and budget boxes.
+   - Official Website (N/A) | [Repo](https://github.com/flex36ty/elefin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/flex36ty/elefin/releases)
+   - [x] Android TV
+
 - **Infuse**
 
    - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
    - [Official Website](https://firecore.com/infuse) | Repo (N/A)
    - [ ] Closed Source
-   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934?mt=8)
+   - [x] [Download for free](https://apps.apple.com/us/app/infuse-video-player/id1136220934)
    - [x] Apple tvOS + iOS + Mac
+
+- **JellyTV**
+
+   - JellyTV is a premium Jellyfin client designed to deliver a fast, elegant and immersive media experience across all your Apple devices.
+   - [Official Website](https://www.jellytv.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://apps.apple.com/app/jellytv/id6752357290)
+   - [x] Apple tvOS + iOS
+
+- **Moonfin**
+
+   - Moonfin is a cross-platform media client built with Flutter, designed for Jellyfin and Emby users who want a modern, customizable experience across mobile, tablet, and desktop platforms.
+   - Official Website (N/A) | [Repo](https://github.com/Moonfin-Client/#all-moonfin-clients)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Moonfin-Client/#all-moonfin-clients)
+   - [x] Android TV, Apple tvOS, LG WebOS TV, Roku and Samsung TizenOS TV + Linux, Mac and Windows + Android and iOS
+
+- **Stingray**
+
+   - A Jellyfin client for the Apple TV. Attempts to use as many of the native APIs as possible.
+   - Official Website (N/A) | [Repo](https://github.com/benjaminRoberts01375/Stingray)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/stingray-streaming/id6756280505)
+   - [x] Apple tvOS
 
 - **Swiftfin**
 
-   - Made using Swift to maximise direct play with the power of VLC and look native on all classes of Apple devices. 
+   - Made using Swift to maximise direct play with the power of VLC and look native on all classes of Apple devices.
    - Official Website (N/A) | [Repo](https://github.com/jellyfin/swiftfin)
    - [x] Open Source
    - [x] [Download for free](https://github.com/jellyfin/swiftfin#%EF%B8%8F-download)
    - [x] Apple tvOS + iOS
+
+- **Void**
+
+   - A modern, powerful, feature-rich client for Jellyfin, built with Kotlin and Jetpack Compose.
+   - Official Website (N/A) | [Repo](https://github.com/hritwikjohri/VoidTV-for-jellyfin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/hritwikjohri/VoidTV-for-jellyfin)
+   - [x] Android TV
+
+- **Wholphin**
+
+   - Wholphin is an open-source Android TV client for Jellyfin. It aims to provide a different app UI that's inspired by Plex for users interested in migrating to Jellyfin. Wholphin's user interface and controls have been written completely from scratch. Wholphin supports playing media using either ExoPlayer or MPV.
+   - Official Website (N/A) | [Repo](https://github.com/damontecres/Wholphin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/damontecres/Wholphin#installation)
+   - [x] Android TV
 
 
 ### Subsonic/Navidrome
