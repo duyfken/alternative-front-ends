@@ -107,7 +107,15 @@ ___
    - [x] Linux, Mac and Windows
 
    ⓘ Pidgin currently supports over 50 services.
-  
+
+- **Plezy**
+
+   - A modern client for Plex and Jellyfin on desktop, mobile, and TV. Built with Flutter for native performance and a clean interface.
+   - [Official Website](https://plezy.app/) | [Repo](https://github.com/edde746/plezy)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/edde746/plezy#download)
+   - [x] Linux, Mac and Windows + Android and iOS + Android TV and Apple tvOS
+
 - **Ripcord** :moneybag:
 
    - Ripcord is a desktop chat client for Slack and Discord. It provides a traditional compact desktop interface designed for power users. It's not built on top of web browser technology: it has a small resource footprint, responds quickly to input, and gets out of your way.
@@ -124,6 +132,14 @@ ___
    - Official Website (N/A) | [Repo](https://github.com/dweymouth/supersonic)
    - [x] Open Source
    - [x] [Download for free](https://github.com/dweymouth/supersonic#installation)
+   - [x] Linux, Mac and Windows
+
+- **Tauon**
+
+   - Tauon is a modern, comfortable and streamlined music player for the playback of your music collection. Music can be played from a local source, or from Jellyfin, Subsonic/Airsonic and Plex servers.
+   - [Official Website](https://tauonmusicbox.rocks/) | [Repo](https://github.com/Taiko2k/Tauon)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
    - [x] Linux, Mac and Windows
 
 - **Tributary**
@@ -558,6 +574,14 @@ Based on ArmCord.
 
 ### Jellyfin
 
+- **Blink**
+
+   - Modern Desktop Jellyfin Client made with Tauri and React.
+   - Official Website (N/A) | [Repo](https://github.com/prayag17/Blink)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/prayag17/Blink/releases)
+   - [x] Linux, Mac and Windows
+
 - **Delfin**
 
    - Delfin is a native client for the Jellyfin media server. It features a fast and clean interface to stream your media in an embedded MPV-based video player.
@@ -582,7 +606,7 @@ Based on ArmCord.
    - Official Website (N/A) | [Repo](https://github.com/DonutWare/Fladder)
    - [x] Open Source
    - [x] [Download for free](https://github.com/DonutWare/Fladder#download)
-   - [x] Linux, Mac and Windows + Android
+   - [x] Linux, Mac and Windows + Android and iOS
 
 - **Gelly** [(see Multi-service apps section)](#multi-service-apps)
 
@@ -604,7 +628,17 @@ Based on ArmCord.
 
    ⓘ Manet on MacOS requires the purchase of Manet+ for USD$9.99
 
+- **Moonfin**
+
+   - Moonfin is a cross-platform media client built with Flutter, designed for Jellyfin and Emby users who want a modern, customizable experience across mobile, tablet, and desktop platforms.
+   - Official Website (N/A) | [Repo](https://github.com/Moonfin-Client/Mobile-Desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Moonfin-Client/Mobile-Desktop#installation)
+   - [x] Linux, Mac and Windows + Android and iOS + Android TV, Apple tvOS, LG WebOS TV, Roku and Samsung TizenOS TV
+
 - **Nocturne** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Plezy** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Qcm**
 
@@ -624,13 +658,7 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/dragonflylee/switchfin)
    - [x] Linux, Mac and Windows
 
-- **Tauon**
-
-   - Tauon is a modern, comfortable and streamlined music player for the playback of your music collection. Music can be played from a local source, or from Jellyfin, Airsonic and Plex servers.
-   - [Official Website](https://tauonmusicbox.rocks/) | [Repo](https://github.com/Taiko2k/Tauon)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
-   - [x] Linux and Windows
+- **Tauon** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Tributary** [(see Multi-service apps section)](#multi-service-apps)
 
@@ -943,13 +971,9 @@ Based on ArmCord.
    - [x] [Download for free](https://gitlab.gnome.org/tijder/girens#how-to-install)
    - [x] Linux
 
-- **Tauon**
+- **Plezy** [(see Multi-service apps section)](#multi-service-apps)
 
-   - Tauon is a modern, comfortable and streamlined music player for the playback of your music collection. Music can be played from a local source, or from Jellyfin, Airsonic and Plex servers.
-   - [Official Website](https://tauonmusicbox.rocks/) | [Repo](https://github.com/Taiko2k/Tauon)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/Taiko2k/Tauon#download-and-install-dizzy)
-   - [x] Linux and Windows
+- **Tauon** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Rocket.Chat
@@ -1167,6 +1191,8 @@ Based on ArmCord.
    - [x] Linux, Mac and Windows
 
 - **Supersonic** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Tauon** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Termsonic**
 
