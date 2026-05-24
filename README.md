@@ -350,6 +350,8 @@ ___
    - [x] [Download for free](https://f-droid.org/packages/com.dkanada.gramophone)
    - [x] Android
 
+   ⓘ Gelli's code repository was archived on November 20th 2025. Use the Gelli fork Jamfish instead.
+
 - **Infuse**
 
    - Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, and Mac. No need to convert files!
@@ -357,6 +359,14 @@ ___
    - [ ] Closed Source
    - [x] [Download for free](https://apps.apple.com/app/id1136220934)
    - [x] Apple iOS + Mac + tvOS
+
+- **Jamfish**
+
+   - This is a native music player for Android devices that connects to Jellyfin media servers. The code is based on Gelli's archived repository, which is based on an old version of [Phonograph](https://github.com/kabouzeid/Phonograph).
+   - Official Website (N/A) | [Repo](https://github.com/adrianvic/jamfish)
+   - [x] Open Source
+   - [x] [Download for free](https://f-droid.org/en/packages/org.adrianvictor.geleia/)
+   - [x] Android
 
 - **JellyBook**
 
