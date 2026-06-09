@@ -36,6 +36,16 @@ ___
 
    ⓘ Beeper currently supports Discord, Google Chat, Google Messages (RCS/SMS), Instagram, LinkedIn, Matrix, Messenger, Signal, Slack, Telegram, WhatsApp and X (Twitter).
 
+- **Bloomee**
+
+   - Bloomee is an experimental, open-source music player designed to give you absolute freedom over your audio. Seamlessly mix your local device music with an infinite universe of streams powered by a secure, Rust-backed plugin system. No ads, no interruptions—just your tunes, your way.
+   - [Official Website](https://bloomeex.org/bloomeetunes/) | [Repo](https://github.com/HemantKArya/BloomeeTunes)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/HemantKArya/BloomeeTunes#-download--install)
+   - [x] Android
+
+   ⓘ Bloomee currently supports Apple Music, JioSaavn, Spotify and Youtube/Youtube Music.
+
 - **Dhaaga**
 
    - Dhaaga is a fediverse social app for smartphones, which adds a lot of cool and unique client-side functionalities. It focuses on making it easy to chat and make friends, adds superior offline support and makes the friendiverse intuitive and fun to use for all users, new and old.
@@ -918,6 +928,8 @@ ___
 
 ### Spotify
 
+- **Bloomee** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
 - **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
@@ -1181,6 +1193,8 @@ ___
 
 ### YouTube
 
+- **Bloomee** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Clipious**
 
    - Android client application for invidious, the privacy focused youtube front end.
@@ -1198,6 +1212,14 @@ ___
    - [x] Android
 
    ⓘ Relies solely on Piped, for which most instances are offline and their codebase has been dormant (other than translations and dependencie updates) for over 6 months. :fearful:
+
+- **Flow**
+
+   - Flow is a YouTube client built with Jetpack Compose and Material 3. It includes FlowNeuro, a recommendation engine that runs entirely on your device - no accounts, no tracking, no data leaves your phone.
+   - [Official Website](https://flow.aedev.me/) | [Repo](https://github.com/a-edev/flow)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/A-EDev/Flow#download)
+   - [x] Android
 
 - **FreeTube Android**
 
@@ -1232,6 +1254,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://newpipe.net/#download)
    - [x] Android
+
+- **NouTube**
+
+   - YouTube and YouTube Music in a single app. No ads, plays in the background.
+   - [Official Website](https://oss.nonbili.jp/noutube) | [Repo](https://github.com/nonbili/NouTube)
+   - [x] Open Source
+   - [x] [Download for free](https://oss.nonbili.jp/noutube/install/)
+   - [x] Android + Linux, Mac and Windows
 
 - **PipePipe**
 
@@ -1276,6 +1306,8 @@ ___
 
 ### YouTube Music
 
+- **Bloomee** [(see Multi-service apps section)](#multi-service-apps)
+
 - **InnerTune**
 
    - A Material 3 YouTube Music client for Android.
@@ -1316,14 +1348,6 @@ ___
    - [x] [Download for free](https://github.com/namidaco/namida#installation)
    - [x] Android
 
-- **NouTube**
-
-   - YouTube and YouTube Music in a single app. No ads, plays in the background.
-   - [Official Website](https://oss.nonbili.jp/noutube) | [Repo](https://github.com/nonbili/NouTube)
-   - [x] Open Source
-   - [x] [Download for free](https://oss.nonbili.jp/noutube/install/)
-   - [x] Android + Linux, Mac and Windows
-
 - **OuterTune**
 
    - A Material 3 YouTube Music client & local music player for Android. OuterTune is a supercharged fork of InnerTune, with advanced account synchronisation, local media playback, multiple queues, and a new take on UI design.
@@ -1342,9 +1366,17 @@ ___
 
 - **SoundCrowd** [(see Multi-service apps section)](#multi-service-apps)
 
+- **SoundPod**
+
+   -  A minimalist YouTube Music client for Android. Built with modern Android development using Jetpack Compose.
+   - Official Website (N/A) | [Repo](https://github.com/arunnechully/SoundPod)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/arunnechully/SoundPod#installation)
+   - [x] Android
+
 - **vivi**
 
-   - Stream unlimited music from YouTube Music with advanced features, offline downloads, and seamless background playback in one elegant app. 
+   - Stream unlimited music from YouTube Music with advanced features, offline downloads, and seamless background playback in one elegant app.
    - [Official Website](https://vivi-music-web-com.vercel.app/) | [Repo](https://github.com/vivizzz007/vivi-music)
    - [x] Open Source
    - [x] [Download for free](https://vivi-music-web-com.vercel.app/releases.html)
