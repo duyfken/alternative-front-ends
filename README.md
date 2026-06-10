@@ -1425,8 +1425,6 @@ ___
    - [x] [Download for free](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/releases)
    - [x] Linux and Mac
 
-   ⓘ If you use Windows, the upstream version of the [UAD project](https://github.com/0x192/universal-android-debloater) is what you'll need, keep in mind however that it hasn't had a release since July 2022.
-
 - **UntrackMe**
 
    - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
