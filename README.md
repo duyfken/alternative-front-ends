@@ -1409,6 +1409,14 @@ ___
    - [x] [Download for free](https://github.com/LinkSheet/LinkSheet?tab=readme-ov-file#nightly-builds)
    - [x] Android
 
+- **Sidestep**
+
+   - Android app that intercepts social media URLs and redirects them to alternative front-ends while removing tracking parameters. No apps or accounts needed to access the content shared with you.
+   - Official Website (N/A) | [Repo](https://github.com/blankdotdev/sidestep) 
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/blankdotdev/sidestep)
+   - [x] Android
+
 - **Universal Android Debloater Next Generation**
 
    - This is a detached fork of the [UAD project](https://github.com/0x192/universal-android-debloater), which aims to improve privacy and battery performance by removing unnecessary and obscure system apps. This can also contribute to improving security by reducing (but not eliminating) [the attack surface](https://en.wikipedia.org/wiki/Attack_surface). The program is run on a computer which communicates to your Android device over ADB (Android Debug Bridge).
@@ -1422,12 +1430,10 @@ ___
 - **UntrackMe**
 
    - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
-   - Official Website (N/A) | [Repo](https://framagit.org/tom79/nitterizeme) 
+   - Official Website (N/A) | [Repo](https://codeberg.org/tom79/UntrackMe) 
    - [x] Open Source
-   - [x] [Download for free](https://framagit.org/tom79/nitterizeme#download)
+   - [x] [Download for free](https://codeberg.org/tom79/UntrackMe#download)
    - [x] Android
-
-   ⓘ No updates since 2022. Recommend using LinkSheet.
 
 ___
 <sup>**Legal addendum**</sup>
