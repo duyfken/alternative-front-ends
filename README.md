@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Qobuz](#qobuz) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -67,7 +67,7 @@ ___
    - [Official Website](https://grayjay.app/desktop/) | [Repo](https://gitlab.futo.org/videostreaming/Grayjay.Desktop)
    - [x] Open Source
    - [x] [Download for free](https://grayjay.app/desktop/#download)
-   - [x] Linux, Max and Windows + Android
+   - [x] Linux, Mac and Windows + Android
 
    ⓘ Grayjay currently has official source plugins for Youtube, Kick, Rumble, Bitchute, Odysee, Patreon, Twitch, Spotify, Dailymotion, SoundCloud, Nebula, BiliBili and PeerTube.
 
@@ -78,6 +78,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://irssi.org/download/)
    - [x] Linux and Windows
+
+- **MediaHarbor**
+
+   - MediaHarbor is an all-in-one media downloader and player. Search, stream, and download audio/video from YouTube, Spotify, Tidal, Deezer, Qobuz, Apple Music, and more.
+   - [Official Website](https://mediaharbor.org/) | [Repo](https://github.com/MediaHarbor/mediaharbor)
+   - [x] Open Source
+   - [x] [Download for free](https://mediaharbor.org/download)
+   - [x] Linux, Mac and Windows
 
 - **Nocturne**
 
@@ -976,6 +984,27 @@ Based on ArmCord.
 - **Tauon** [(see Multi-service apps section)](#multi-service-apps)
 
 
+### Qobuz
+
+- **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
+
+- **QBZ**
+
+   - QBZ is a free and open source high-fidelity streaming client for Linux (with experimental macOS support) with native playback. It is a real desktop application - not a web wrapper - with DAC passthrough, per-track sample rate switching, exclusive mode, and bit-perfect audio delivery.
+   - [Official Website](https://qbz.lol/) | [Repo](https://github.com/vicrodh/qbz)
+   - [x] Open Source
+   - [x] [Download for free](https://qbz.lol/#downloads)
+   - [x] Linux and Mac
+
+- **Qobine**
+
+   - Listening to your Qobuz music with Qobine: an Adwaita Qobuz client designed for GNOME, a Terminal UI, a web app for a Raspberry Pi player or even a RFID player.
+   - Official Website (N/A) | [Repo](https://github.com/SofusA/qobine)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/SofusA/qobine)
+   - [x] Linux, Mac and Windows
+
+
 ### Rocket.Chat
 
 - **Ferdium** [(see Multi-service apps section)](#multi-service-apps)
@@ -1044,6 +1073,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/dzirbel/kotify#installation)
    - [x] Linux, Mac and Windows
+
+- **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Moosync**
 
@@ -1280,6 +1311,8 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/en/apps/io.github.nokse22.high-tide)
    - [x] Linux
 
+- **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Sone**
 
    - The native desktop client for TIDAL on Linux. Modern UI, custom themes, and lossless streaming with bit-perfect ALSA output up to 24-bit/192kHz (MAX) — your DAC, not your browser's resampler.
@@ -1467,6 +1500,8 @@ Based on ArmCord.
 
 - **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
+- **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
+
 - **miniTube** 💰
 
    - Minitube is a YouTube desktop application. It is written in C++ using the Qt framework. Requires a subscription of €9.99 / year since version 4.0
@@ -1586,6 +1621,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Plex is a trademark of Plex, Inc. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Subsonic is a trademark of Subsonic AS. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Apple Music is a trademark of Apple Inc. Discord is a trademark of Discord Inc. Mastodon is a trademark of Mastodon GmbH. Messenger is a trademark of Meta Platforms. Plex is a trademark of Plex, Inc. Qobuz is a trademark of Xandrie SA. Shazam is a trademark of Apple Inc. Signal is a trademark of Signal Messenger LLC. Spotify is a trademark of Spotify AB. Subsonic is a trademark of Subsonic AS. Telegram is a trademark of Telegram FZ LLC. TIDAL is a trademark of TIDAL Music AS. Twitch is a trademark of Amazon.com, Inc. WhatsApp is a trademark of Meta Platforms. Wikipedia is a trademark of Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
