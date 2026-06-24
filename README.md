@@ -1247,6 +1247,14 @@ ___
    - [x] [Download for free](https://github.com/libre-tube/LibreTube/releases)
    - [x] Android
 
+- **Namida**
+
+   - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/namidaco/namida)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/namidaco/namida#installation)
+   - [x] Android + Linux and Windows
+
 - **NewPipe**
 
    - NewPipe has been created with the purpose of getting the original YouTube experience on your smartphone without annoying ads and questionable permissions.
@@ -1279,6 +1287,14 @@ ___
    - [x] [Download for free](https://github.com/SkyTubeTeam/SkyTube#download)
    - [x] Android
 
+- **Smart Tube BDP**
+
+   - Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac - ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K.
+   - Official Website (N/A) | [Repo](https://github.com/milika/SmartTubeIOS)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/smart-tube-bdp/id6761388918)
+   - [x] iOS + Mac + Apple tvOS
+
 - **Tubular**
 
    - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
@@ -1286,6 +1302,14 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/polymorphicshade/Tubular/releases)
    - [x] Android
+
+- **Unwatched**
+
+   - RSS feed based YouTube video player for iOS, macOS, tvOS.
+   - Official Website (N/A) | [Repo](https://github.com/fer0n/Unwatched)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/unwatched-for-youtube/id6477287463)
+   - [x] iOS + Mac + Apple tvOS
 
 - **WatchTube**
 
