@@ -217,13 +217,29 @@ ___
    - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
    - [x] Android TV
 
+- **Smart Tube BDP**
+
+   - Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac - ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K.
+   - Official Website (N/A) | [Repo](https://github.com/milika/SmartTubeIOS)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/smart-tube-bdp/id6761388918)
+   - [x] Apple tvOS + iOS + Mac
+
 - **TizenTube**
 
-   - A NodeJS script to remove ads and add support for Sponsorblock for your Tizen TV (2017 and forward). 
+   - A NodeJS script to remove ads and add support for Sponsorblock for your Tizen TV (2017 and forward).
    - Official Website (N/A) | [Repo](https://github.com/iBicha/playlet)
    - [x] Open Source
    - [x] [Download for free](https://github.com/reisxd/TizenTube#how-to-install)
    - [x] Samsung TizenOS TV
+
+- **Unwatched**
+
+   - RSS feed based YouTube video player for iOS, macOS, tvOS.
+   - Official Website (N/A) | [Repo](https://github.com/fer0n/Unwatched)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/unwatched-for-youtube/id6477287463)
+   - [x] Apple tvOS + iOS + Mac
 
 - **Yattee**
 
@@ -247,7 +263,7 @@ ___
 
 - **Cx File Explorer**
 
-   - Cx File Explorer is a powerful file manager & storage cleaner app with a clean and intuitive interface. One of it's greatest features for the Android TV is the FTP Server function. Combine it with Filezilla on your PC or Material Files on your Android phone to easily transfer apps or config backups to and from an Android TV for free.
+   - Cx File Explorer is a powerful file manager & storage cleaner app with a clean and intuitive interface. One of it's greatest features for the Android TV is the FTP Server function. Combine it with [FileZilla](https://filezilla-project.org/) on your PC or [Material Files](https://github.com/zhanghai/MaterialFiles) on your Android phone to easily transfer apps or config backups to and from an Android TV for free.
    - Official Website (N/A) | Repo (N/A)
    - [ ] Closed Source
    - [x] [Download for free](https://github.com/yuliskov/smarttube#installation)
