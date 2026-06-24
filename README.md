@@ -1510,6 +1510,14 @@ Based on ArmCord.
    - [x] [Download for free](https://flavio.tordini.org/minitube)
    - [x] Linux, Mac and Windows
 
+- **Namida**
+
+   - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter.
+   - Official Website (N/A) | [Repo](https://github.com/namidaco/namida)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/namidaco/namida#installation)
+   - [x] Linux and Windows + Android
+
 - **Pipeline**
 
    - Pipeline lets you watch and download videos from YouTube and PeerTube, all without needing to navigate through different websites.
@@ -1528,6 +1536,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/trizen/pipe-viewer#availability)
    - [x] Linux
 
+- **Smart Tube BDP**
+
+   - Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac - ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K.
+   - Official Website (N/A) | [Repo](https://github.com/milika/SmartTubeIOS)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/smart-tube-bdp/id6761388918)
+   - [x] Mac + Apple tvOS + iOS
+
 - **SMTube**
 
    - SMTube is a YouTube browser for SMPlayer. You can browse, search and play YouTube videos. The videos can be played in SMPlayer or any other media player.
@@ -1537,6 +1553,14 @@ Based on ArmCord.
    - [x] Linux and Windows
 
    ⓘ Has not had any codebase commits in over 2 years(!)
+
+- **Unwatched**
+
+   - RSS feed based YouTube video player for iOS, macOS, tvOS.
+   - Official Website (N/A) | [Repo](https://github.com/fer0n/Unwatched)
+   - [x] Open Source
+   - [x] [Download for free](https://apps.apple.com/app/unwatched-for-youtube/id6477287463)
+   - [x] Mac + Apple tvOS + iOS
 
 - **VacuumTube**
 
