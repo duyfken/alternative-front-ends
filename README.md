@@ -25,6 +25,16 @@ A to Z + Tools
 ___
 ### Multi-service apps
 
+- **ampcast**
+
+   - A music player inspired by Winamp.
+   - [Official Website](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/rekkyrosso/ampcast/releases)
+   - [x] Linux, Mac and Windows + Web
+
+   ⓘ ampcast currently supports Plex, Jellyfin, Subsonic/Navidrome, Apple Music, Spotify and YouTube.
+
 - **Beeper**
 
    - Beeper is a universal chat app. With Beeper, you can send and receive messages to friends, family and colleagues on up to 14 different chat networks, all from a single app. Uses open source Matrix network bridges.
@@ -37,7 +47,7 @@ ___
 
 - **Feishin**
 
-   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers.
+   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers. Plex support is also available in [lux032's fork of Feishin](https://github.com/lux032/feishin).
    - [Official Website](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
    - [x] Open Source
    - [x] [Download for free](https://github.com/jeffvli/feishin?tab=readme-ov-file#getting-started)
@@ -170,6 +180,8 @@ ___
 
 
 ### Apple Music
+
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Cider** :moneybag:
 
@@ -582,6 +594,8 @@ Based on ArmCord.
 
 ### Jellyfin
 
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Blink**
 
    - Modern Desktop Jellyfin Client made with Tauri and React.
@@ -971,6 +985,10 @@ Based on ArmCord.
 
 ### Plex
 
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Feishin** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Girens for Plex**
 
    - Girens is a Plex media player client. You can watch and listen to your music, shows and movies with this GTK app.
@@ -982,6 +1000,8 @@ Based on ArmCord.
 - **Plezy** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Tauon** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Tributary** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Qobuz
@@ -1063,6 +1083,8 @@ Based on ArmCord.
 
 
 ### Spotify
+
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
@@ -1151,13 +1173,7 @@ Based on ArmCord.
 
 ### Subsonic/Navidrome
 
-- **ampcast**
-
-   - A music player inspired by Winamp. Supports Plex, Jellyfin, and Subsonic/Navidrome servers. Additional support is also provided for Apple Music, Spotify and YouTube.
-   - [Official Website](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/rekkyrosso/ampcast/releases)
-   - [x] Linux, Mac and Windows + Web
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Amperfy**
 
@@ -1588,6 +1604,8 @@ Based on ArmCord.
 
 
 ### YouTube Music
+
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **AudioTube**
 
