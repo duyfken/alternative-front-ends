@@ -20,12 +20,33 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
+### Multi-service apps
+
+- **ampcast**
+
+   - A music player inspired by Winamp.
+   - [Official Instance](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/rekkyrosso/ampcast#self-hosting)
+   - [x] Web + Linux, Mac and Windows
+
+   ⓘ ampcast currently supports Plex, Jellyfin, Subsonic/Navidrome, Apple Music, Spotify and YouTube.
+
+- **Feishin**
+
+   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers. Plex support is also available in [lux032's fork of Feishin](https://github.com/lux032/feishin).
+   - [Official Instance](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/jeffvli/feishin#getting-started)
+   - [x] Web + Linux, Mac and Windows
+
+
 ### Bluesky
 
 - **Anartia**
@@ -611,13 +632,7 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/JPGuillemin/Airdrome#run-from-docker-hub)
    - [x] Web + Android
 
-- **ampcast**
-
-   - A music player inspired by Winamp. Supports Plex, Jellyfin, and Subsonic/Navidrome servers. Additional support is also provided for Apple Music, Spotify and YouTube.
-   - [Official Instance](https://ampcast.app/) | [Repo](https://github.com/rekkyrosso/ampcast)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/rekkyrosso/ampcast#self-hosting)
-   - [x] Web + Linux, Mac and Windows
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Aonsoku**
 
@@ -635,13 +650,7 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/sawyerf/Castafiore#build-locally)
    - [x] Web + Android
 
-- **Feishin**
-
-   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers.
-   - [Official Instance](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/jeffvli/feishin#getting-started)
-   - [x] Web + Linux, Mac and Windows
+- **Feishin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **tinysub**
 
@@ -838,6 +847,8 @@ software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b
 
 
 ### YouTube Music
+
+- **ampcast** [(see Multi-service apps section)](#multi-service-apps)
 
 - **BeatBump**
 
