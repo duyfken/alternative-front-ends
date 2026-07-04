@@ -20,7 +20,7 @@ A to Z + Tools
 
 [Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
-☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
+☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt or redirect to these front-ends.
 ___
@@ -210,9 +210,17 @@ ___
    - [x] [Download for free](https://f-droid.org/en/packages/com.looker.droidify/)
    - [x] Android
 
+- **Komi Store**
+
+   - A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
+   - [Official Website](https://www.komistore.app/) | [Repo](https://github.com/kurikomi-labs/komi-store)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/kurikomi-labs/komi-store/#download)
+   - [x] Android
+
 - **Neo-Store**
 
-   - An F-Droid client with modern UI and an arsenal of extra features. 
+   - An F-Droid client with modern UI and an arsenal of extra features.
    - Official Website (N/A) | [Repo](https://github.com/NeoApplications/Neo-Store)
    - [x] Open Source
    - [x] [Download for free](https://github.com/NeoApplications/Neo-Store/releases)
@@ -224,6 +232,22 @@ ___
    - [Official Website](https://obtainium.imranr.dev/) | [Repo](https://github.com/ImranR98/Obtainium)
    - [x] Open Source
    - [x] [Download for free](https://github.com/ImranR98/Obtainium#installation)
+   - [x] Android
+
+- **ObtainX**
+
+   - ObtainX is a modern and supercharged fork of Obtainium. Re-engineered with a stunning Material 3 Expressive UI, it delivers an ultra-smooth interface packed with power-user utilities that make managing your Android apps effortless.
+   - [Official Website](https://bikram-agarwal.github.io/) | [Repo](https://github.com/bikram-agarwal/ObtainX)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/bikram-agarwal/ObtainX#-installation)
+   - [x] Android
+
+- **RepoStore**
+
+   - Explore apps published on GitHub, view release details, and install APKs instantly - all in one place. Developed using pure Kotlin, optimized for modern Android devices.
+   - [Official Website](https://repostore.in/) | [Repo](https://github.com/samyak2403/RepoStore)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/samyak2403/RepoStore#-download)
    - [x] Android
 
 
@@ -280,6 +304,8 @@ ___
 
 ### Google Play Store
 
+ⓘ Check out the [F-Droid](#f-droid) clients for an Open Source alternative app source.
+
 - **APKUpdater**
 
    - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps. It provides similar functionality to an app store, but instead of depending on a single source, it aggregates the results from APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub and Google Play.
@@ -295,24 +321,6 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
    - [x] Android and Android TV
-
-- **F-Droid**
-
-   - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. This client makes it easy to browse, install, and keep track of updates on your device.
-   - [Official Website](https://f-droid.org/) | [Repo](https://gitlab.com/fdroid/fdroidclient)
-   - [x] Open Source
-   - [x] [Download for free](https://gitlab.com/fdroid/fdroidclient#direct-download)
-   - [x] Android
-
-   ⓘ Make sure to check the [F-Droid section](#f-droid) for alternative front-ends to the many F-Droid compatible app respositories available for Android.
-
-- **Obtainium**
-
-   - Get Android app updates straight from the source. Obtainium allows you to install and update apps directly from their releases pages, and receive notifications when new releases are made available.
-   - [Official Website](https://obtainium.imranr.dev/) | [Repo](https://github.com/ImranR98/Obtainium)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/ImranR98/Obtainium#installation)
-   - [x] Android
 
 
 ### IRC
