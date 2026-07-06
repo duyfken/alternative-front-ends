@@ -789,13 +789,14 @@ ___
 
 ### Wikipedia
 
-- **Wikiless**
+- **Wikimore**
 
-   - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring users can explore knowledge with enhanced privacy. 
-   - [Official Instance](https://wikiless.com/) | [Repo](https://github.com/Metastem/wikiless)
-   - [Public Instances](https://github.com/Metastem/Wikiless/wiki/Instances)
+   - Wikimore is a simple frontend for Wikimedia projects. It uses the MediaWiki API to fetch data from Wikimedia projects and display it in a user-friendly way. It is built using Flask.
+   - [Official Instance](https://wikimore.private.coffee/) | [Repo](https://git.private.coffee/PrivateCoffee/wikimore)
+   - [Public Instances](https://git.private.coffee/PrivateCoffee/wikimore#instances)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/Metastem/Wikiless/wiki/Deployment)
+   - [x] Self-Hostable | [Guide](https://git.private.coffee/PrivateCoffee/wikimore#installation)
+   - [x] Decentralised Options | [Onion](https://git.private.coffee/PrivateCoffee/wikimore#tor-hidden-services)
 
 
 ### YouTube
