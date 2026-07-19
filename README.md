@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Deviantart](#deviantart) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -78,6 +78,16 @@ ___
    - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+
+### Deviantart
+
+- **SkunkyArt**
+
+   - An alternative frontend for DeviantArt that works entirely without JavaScript.
+   - [Official Instance](https://art.zerolabs.sh/) | [Repo](https://github.com/zerolabsco/skunky-art)
+   - [Public Instances](https://github.com/zerolabsco/skunky-art/blob/main/INSTANCES.md)
+   - [x] Open Source
+   - [x] Self-Hostable
 
 
 ### Dictionaries
