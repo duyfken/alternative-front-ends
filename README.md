@@ -828,6 +828,13 @@ ___
    - [x] Self-Hostable | [Guide](https://git.private.coffee/PrivateCoffee/wikimore#installation)
    - [x] Decentralised Options | [Onion](https://git.private.coffee/PrivateCoffee/wikimore#tor-hidden-services)
 
+- **wikiviewer**
+
+   - wikiviewer aims to provide a simpler, less-disturbing way to browse Wikipedia articles.
+   - [Official Instance](https://wiki.chatoyer.de/) | [Repo](https://codeberg.org/bnyro/wikiviewer)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/bnyro/wikiviewer#installation)
 
 ### YouTube
 
@@ -875,6 +882,14 @@ software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b
    - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
 
    ⓘ Project semi-paused at the moment. Read here: https://github.com/ViewTube/viewtube/discussions/3002
+
+- **TypeType**
+
+   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. 
+   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/Priveetee/TypeType)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
 
 
 ### YouTube Music
