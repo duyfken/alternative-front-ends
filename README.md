@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Apple Music](#apple-music) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Qobuz](#qobuz) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Apple Music](#apple-music) • [Dictionaries](#dictionaries) • [Discord](#discord) • [Git](#git) • [GOG](#gog) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Messenger](#messenger) • [Misskey](#misskey) • [Nostr](#nostr) • [Plex](#plex) • [Qobuz](#qobuz) • [Rocket.Chat](#rocket.chat) • [Shazam](#shazam) • [Signal](#signal) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [TIDAL](#tidal) • [Translate](#translate) • [Twitch](#twitch) • [WhatsApp](#whatsapp) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -190,6 +190,65 @@ ___
    - [ ] Closed Source, Paid App
    - [ ] [Download for USD$3.49 or more](https://cidercollective.itch.io/cider) (due to use of the Apple MusicKit proprietary API)
    - [x] Linux, Mac and Windows
+
+
+### Dictionaries
+
+- **Akkhara**
+
+   - Akkhara is a multi-language dictionary designed to enhance the way you explore and understand language. Akkhara aims not just to simply be a dictionary; it's your linguistic companion, offering a seamless and enriching experience for language enthusiasts, students, professionals and casual users alike.
+   - [Official Website](https://forcefidele.com/akkhara/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://forcefidele.com/akkhara/)
+   - [x] Linux, Mac and Windows + Android and iOS
+
+- **Easydict**
+
+   - Easydict is a concise and easy-to-use translation dictionary macOS App that allows you to easily and elegantly look up words or translate text.
+   - Official Website (N/A) | [Repo](https://github.com/tisfeng/Easydict)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/tisfeng/Easydict#installation)
+   - [x] Mac
+
+- **GoldenDict-ng**
+
+   - GoldenDict-ng is an advanced dictionary lookup program, supporting many formats.
+   - [Official Website](https://xiaoyifang.github.io/goldendict-ng/) | [Repo](https://github.com/xiaoyifang/goldendict-ng)
+   - [x] Open Source
+   - [x] [Download for free](https://xiaoyifang.github.io/goldendict-ng/install/)
+   - [x] Linux, Mac and Windows
+
+- **Kotoba** :jp: :uk:
+
+   - A Japanese–English dictionary, capable of looking up words using kanji, kana, rōmaji, or English meaning. No internet connection required.
+   - Official Website (N/A) | [Repo](https://gitlab.gnome.org/haydn/kotoba)
+   - [x] Open Source
+   - [x] [Download for free](https://flathub.org/apps/details/net.trowell.kotoba)
+   - [x] Linux
+
+- **TheSage** :uk:
+
+   - The aim of TheSage is to be an International English dictionary and thesaurus with entries from all the World English varieties. Definitions are written in American English.
+   - [Official Website](https://sequencepublishing.com/1/thesage/thesage.html) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://sequencepublishing.com/1/thesage/thesage.html)
+   - [x] Windows
+
+- **Wordbook** :uk:
+
+   - Wordbook is an offline English-English dictionary application built for GNOME using the Open English WordNet database for definitions and the reliable eSpeak for pronunciations (both audio and phoneme). 
+   - Official Website (N/A) | [Repo](https://github.com/mufeedali/Wordbook)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/mufeedali/Wordbook#installation)
+   - [x] Linux
+
+- **WordWeb** :uk:
+
+   - WordWeb is an international English dictionary and thesaurus program for Microsoft Windows, iOS, Android and Mac OS X. Available for download online, the program is partly based on the WordNet database, but can integrate Oxford, Chambers and Collins dictionaries.
+   - [Official Website](https://wordweb.info/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://wordweb.info/free/)
+   - [x] Mac and Windows + Android and iOS
 
 
 ### Discord
