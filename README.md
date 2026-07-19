@@ -18,7 +18,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Dictionaries](#dictionaries) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -145,6 +145,49 @@ ___
 - **Fread** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Nora** [(see Multi-service apps section)](#multi-service-apps)
+
+
+### Dictionaries
+
+- **Akkhara**
+
+   - Akkhara is a multi-language dictionary designed to enhance the way you explore and understand language. Akkhara aims not just to simply be a dictionary; it's your linguistic companion, offering a seamless and enriching experience for language enthusiasts, students, professionals and casual users alike.
+   - [Official Website](https://forcefidele.com/akkhara/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://forcefidele.com/akkhara/)
+   - [x] Android and iOS + Linux, Mac and Windows
+
+- **freeDictionaryApp**
+
+   - freeDictionaryApp is a simple Android application for freeDictionaryAPI and Wiktionary API.
+   - Official Website (N/A) | [Repo](https://github.com/yamin8000/freeDictionaryApp)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yamin8000/freeDictionaryApp#download)
+   - [x] Android
+
+- **Fujiten** :jp:
+
+   - Fujiten is an offline Japanese dictionary app built with the Flutter framework. It provides fast and reliable access to Japanese definitions and kanji information, all available offline.
+   - Official Website (N/A) | [Repo](https://github.com/odrevet/fujiten)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/odrevet/fujiten)
+   - [x] Android
+
+- **Sumatora** :jp:
+
+   - An offline Japanese dictionary for Android.
+   - [Official Website](https://sumatora.happypeng.org/) | [Repo](https://github.com/HappyPeng2x/SumatoraDictionary)
+   - [x] Open Source
+   - [x] [Download for free](https://sumatora.happypeng.org/)
+   - [x] Android
+
+- **WordWeb** :uk:
+
+   - WordWeb is an international English dictionary and thesaurus program for Microsoft Windows, iOS, Android and Mac OS X. Available for download online, the program is partly based on the WordNet database, but can integrate Oxford, Chambers and Collins dictionaries.
+   - [Official Website](https://wordweb.info/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Download for free](https://wordweb.info/free/)
+   - [x] Android and iOS + Mac and Windows
 
 
 ### Discord
