@@ -1161,6 +1161,14 @@ ___
 
 - **Flare** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Nitterium**
+
+   - A privacy-focused Android app and wrapper for [Nitter](https://github.com/zedeus/nitter), allowing you to browse Twitter/X content without an account and subscribe to your favorite user profiles.
+   - Official Website (N/A) | [Repo](https://github.com/kaleedtc/Nitterium)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/kaleedtc/Nitterium#-installation)
+   - [x] Android
+
 - **Nora** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Squawker**
