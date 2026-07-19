@@ -62,6 +62,12 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/bg443/skylib-backend#installation)
 
+- **viewsky**
+
+   - A read-only Bluesky front-end.
+   - [Official Instance](https://ctstk.codeberg.page/viewsky) | [Repo](https://codeberg.org/ctstk/viewsky)
+   - [x] Open Source
+
 
 ### Chefkoch
 
