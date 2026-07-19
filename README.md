@@ -79,7 +79,7 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
 
-### Deviantart
+### DeviantArt
 
 - **SkunkyArt**
 
