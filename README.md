@@ -33,6 +33,16 @@ ___
    - [x] [Download for free](https://github.com/edde746/plezy#download)
    - [x] Android TV and Apple tvOS + Android and iOS + Linux, Mac and Windows
 
+- **Symfonium** :moneybag:
+
+   - Symfonium is a simple, modern and beautiful music player that lets you enjoy all your music from different sources in one place. Whether you have songs on your local device, cloud storage, or media servers, you can easily access them with Symfonium and play them on your device or cast them to Chromecast, UPnP or DLNA devices.
+   - [Official Website](https://symfonium.app/) | Repo (N/A)
+   - [ ] Closed Source
+   - [x] [Trial for free](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
+   - [x] Android
+
+   ⓘ Symfonium currently supports playing media from Plex, Emby, Jellyfin, Subsonic, OpenSubsonic, Kodi, Samba (SMB v2/v3), WebDAV servers and supported Cloud providers (Google Drive, OneDrive, DropBox, Box, pCloud).
+
 
 ### F-Droid
 
