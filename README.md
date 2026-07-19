@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Pixiv](#pixiv) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -506,6 +506,31 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/bunk-im/pinless#how-to-deploy)
 
+### Pixiv
+
+- **LiteXiv**
+
+   - A free frontend for pixiv that is simple yet sufficient.
+   - Official Instance (N/A) | [Repo](https://codeberg.org/LiteXiv/LiteXiv)
+   - [Public Instances](https://codeberg.org/LiteXiv/LiteXiv#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/LiteXiv/LiteXiv#installation)
+
+- **PixivFE**
+
+   - PixivFE is an open-source, self-hostable alternative front-end for pixiv that prioritizes accessibility, privacy, and freedom.
+   - [Official Instance](https://pixiv.perennialte.ch/) | [Repo](https://codeberg.org/PixivFE/PixivFE)
+   - [Public Instances](https://pixivfe-docs.pages.dev/instance-list/)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://pixivfe-docs.pages.dev/hosting/hosting-pixivfe/)
+
+- **Vixipy**
+
+   - Vixipy [vick-see-pie] is a free and open source pixiv frontend. It allows you to use pixiv and enjoy works without worrying about prying eyes.
+   - [Official Instance](https://vx.maid.zone/) | [Repo](https://codeberg.org/vixipy/Vixipy)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/vixipy/Vixipy/src/branch/main/doc/INSTALL.md)
 
 ### Quora
 
