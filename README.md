@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -78,6 +78,30 @@ ___
    - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+
+
+### Dictionaries
+
+- **Dicothèque** :fr:
+
+   - The Dicothèque is a website aimed at providing a search engine for dictionary entries transcluded on Wikisource. It facilitates comparing these entries in a corpus of dictionaries.
+   - [Official Instance](https://dicotheque.org/) | [Repo](https://codeberg.org/Poslovitch/dicotheque)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/Poslovitch/dicotheque#setup)
+
+- **sdict** :es:
+
+   - A clutter-free frontend for SpanishDict.com
+   - [Official Instance](https://sdict.sloria.fun/) | [Repo](https://github.com/sloria/sdict)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/sloria/sdict#self-host-with-docker)
+
+- **Smart Dictionary**
+
+   - Fast, responsive dictionary app built with Next.js, Tailwind CSS, and TypeScript, featuring clear definitions, phonetics, examples, smooth Framer Motion animations, and a modern glassmorphism UI powered by React 19 and Turbopack.
+   - [Official Instance](https://dictionary-words-app.vercel.app/) | [Repo](https://github.com/Qamrul-Hassan/DictionaryApp)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/Qamrul-Hassan/DictionaryApp#-installation)
 
 
 ### Fandom
