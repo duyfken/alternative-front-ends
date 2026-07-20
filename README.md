@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [DeviantArt](#deviantart) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -78,6 +78,16 @@ ___
    - [Public Instances](https://github.com/NoUmlautsAllowed/gocook#hosted-instances)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/NoUmlautsAllowed/gocook#build-and-deployment)
+
+### DeviantArt
+
+- **SkunkyArt**
+
+   - An alternative frontend for DeviantArt that works entirely without JavaScript.
+   - [Official Instance](https://art.zerolabs.sh/) | [Repo](https://github.com/zerolabsco/skunky-art)
+   - [Public Instances](https://github.com/zerolabsco/skunky-art/blob/main/INSTANCES.md)
+   - [x] Open Source
+   - [x] Self-Hostable
 
 
 ### Dictionaries
@@ -828,6 +838,13 @@ ___
    - [x] Self-Hostable | [Guide](https://git.private.coffee/PrivateCoffee/wikimore#installation)
    - [x] Decentralised Options | [Onion](https://git.private.coffee/PrivateCoffee/wikimore#tor-hidden-services)
 
+- **wikiviewer**
+
+   - wikiviewer aims to provide a simpler, less-disturbing way to browse Wikipedia articles.
+   - [Official Instance](https://wiki.chatoyer.de/) | [Repo](https://codeberg.org/bnyro/wikiviewer)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/bnyro/wikiviewer#installation)
 
 ### YouTube
 
@@ -875,6 +892,14 @@ software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b
    - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
 
    ⓘ Project semi-paused at the moment. Read here: https://github.com/ViewTube/viewtube/discussions/3002
+
+- **TypeType**
+
+   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. 
+   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/Priveetee/TypeType)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
 
 
 ### YouTube Music
@@ -959,6 +984,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Subsonic is a trademark of Subsonic AS. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. DeviantArt is a trademark of DeviantArt, Inc. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Subsonic is a trademark of Subsonic AS. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
