@@ -20,7 +20,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [Dictionaries](#dictionaries) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Pixiv](#pixiv) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right. 
 
@@ -506,6 +506,31 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/bunk-im/pinless#how-to-deploy)
 
+### Pixiv
+
+- **LiteXiv**
+
+   - A free frontend for pixiv that is simple yet sufficient.
+   - Official Instance (N/A) | [Repo](https://codeberg.org/LiteXiv/LiteXiv)
+   - [Public Instances](https://codeberg.org/LiteXiv/LiteXiv#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/LiteXiv/LiteXiv#installation)
+
+- **PixivFE**
+
+   - PixivFE is an open-source, self-hostable alternative front-end for pixiv that prioritizes accessibility, privacy, and freedom.
+   - [Official Instance](https://pixiv.perennialte.ch/) | [Repo](https://codeberg.org/PixivFE/PixivFE)
+   - [Public Instances](https://pixivfe-docs.pages.dev/instance-list/)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://pixivfe-docs.pages.dev/hosting/hosting-pixivfe/)
+
+- **Vixipy**
+
+   - Vixipy [vick-see-pie] is a free and open source pixiv frontend. It allows you to use pixiv and enjoy works without worrying about prying eyes.
+   - [Official Instance](https://vx.maid.zone/) | [Repo](https://codeberg.org/vixipy/Vixipy)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/vixipy/Vixipy/src/branch/main/doc/INSTALL.md)
 
 ### Quora
 
@@ -974,6 +999,6 @@ ___
 
 <sup>This repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners.</sup>
 
-<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Subsonic is a trademark of Subsonic AS. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
+<sup>Bluesky is a trademark of Bluesky Social, PBC. Chefkoch is a trademark of Chefkoch GmbH. FANDOM is a trademark of Fandom, Inc. Genius is a trademark of ML Genius Holdings, LLC. GitHub is a trademark of GitHub, Inc. Goodreads is a trademark of Goodreads LLC. Google is a trademark of Google LLC. IMDb is a trademark of IMDb.com, Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Instructables is a trademark of Autodesk Inc. Mastodon is a trademark of Mastodon GmbH. Medium is a trademark of A Medium Corporation. Odysee is a trademark of Odysee, Inc. Pinterest is a trademark of Pinterest, Inc. Pixiv is a trademark of Pixiv Inc. Quora is a trademark of Quora Inc. Reddit is a trademark of Reddit Inc. SoundCloud is a trademark of SoundCloud Global Limited & Co. KG. StackOverflow is a trademark Stack Exchange, Inc. Subsonic is a trademark of Subsonic AS. Tiktok is a trademark of Bytedance Ltd. Tumblr is a trademark of Automattic Inc. Twitch is a trademark of Amazon.com, Inc. Twitter is a trademark of Twitter Inc. Ultimate Guitar is a trademark of Ultimate Guitar USA LLC. Urban Dictionary is a trademark of Urban Dictionary LLC. Wikipedia is a trademark of the Wikimedia Foundation, Inc. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC.</sup>
 
 <sup>The creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.</sup>
