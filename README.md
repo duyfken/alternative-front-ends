@@ -40,11 +40,18 @@ ___
 
 - **Feishin**
 
-   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jelllyfin servers. Plex support is also available in [lux032's fork of Feishin](https://github.com/lux032/feishin).
+   - A modern self-hosted music player using NodeJS. It's compatible with Subsonic API and Jellyfin servers. Plex support is also available in [lux032's fork of Feishin](https://github.com/lux032/feishin).
    - [Official Instance](https://feishin.vercel.app/) | [Repo](https://github.com/jeffvli/feishin)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/jeffvli/feishin#getting-started)
    - [x] Web + Linux, Mac and Windows
+
+- **gitGost**
+
+   - A community-led free and open-source Git collaboration platform built for privacy, transparency, and developer freedom. Contribute anonymously across GitHub, GitLab and Codeberg, manage repositories across multiple forges, and own your workflow without vendor lock-in.
+   - [Official Instance](https://gitgost.livrasand.com/) | [Repo](https://github.com/livrasand/gitGost)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/livrasand/gitGost#gitgost-for-resilient-networking)
 
 
 ### Bluesky
@@ -156,6 +163,8 @@ ___
 
 
 ### GitHub
+
+- **gitGost** [(see Multi-service apps section)](#multi-service-apps)
 
 - **GotHub**
 
