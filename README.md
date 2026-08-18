@@ -17,7 +17,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ___
 A to Z + Tools
 
-[Multi-service apps](#multi-service-apps) • [F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
+[Multi-service apps](#multi-service-apps) • [F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Plex](#plex) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
 ☰ You can view this contents list and jump between sections via the little menu icon above to the right.
 
@@ -116,6 +116,8 @@ ___
    - [x] [Download for free](https://github.com/Moonfin-Client/#all-moonfin-clients)
    - [x] Android TV, Apple tvOS, LG WebOS TV, Roku and Samsung TizenOS TV + Linux, Mac and Windows + Android and iOS
 
+- **Plezy** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Stingray**
 
    - A Jellyfin client for the Apple TV. Attempts to use as many of the native APIs as possible.
@@ -132,6 +134,8 @@ ___
    - [x] [Download for free](https://github.com/jellyfin/swiftfin#%EF%B8%8F-download)
    - [x] Apple tvOS + iOS
 
+- **Symfonium** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Void**
 
    - A modern, powerful, feature-rich client for Jellyfin, built with Kotlin and Jetpack Compose.
@@ -147,6 +151,21 @@ ___
    - [x] Open Source
    - [x] [Download for free](https://github.com/damontecres/Wholphin#installation)
    - [x] Android TV
+
+
+### Plex
+
+- **Flixor**
+
+   - Flixor is a modern, cross-platform Plex client that brings a Netflix-like experience to your media library. Browse beautiful rows, see rich metadata with ratings from multiple sources, and enjoy powerful playback on any device.
+   - Official Website (N/A) | [Repo](https://github.com/Flixorui/flixor)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/Flixorui/flixor#installation)
+   - [x] Android TV and Apple tvOS + Android and iOS + Mac + Web
+
+- **Plezy** [(see Multi-service apps section)](#multi-service-apps)
+
+- **Symfonium** [(see Multi-service apps section)](#multi-service-apps)
 
 
 ### Subsonic/Navidrome
@@ -265,6 +284,14 @@ ___
    - Official Website (N/A) | [Repo](https://github.com/webosbrew/youtube-webos)
    - [x] Open Source
    - [x] [Download for free](https://github.com/webosbrew/youtube-webos#pre-requisites)
+   - [x] LG WebOS TV
+
+- **youtube-webos-cobalt-adfree**
+
+   - Unofficial Cobalt-based YouTube client for webOS with ad blocking and SponsorBlock support.
+   - Official Website (N/A) | [Repo](https://github.com/RF1705/youtube-webos-cobalt-adfree)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/RF1705/youtube-webos-cobalt-adfree#installation)
    - [x] LG WebOS TV
 
 ___
