@@ -517,6 +517,14 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/Ahwxorg/Binternet/wiki/Installing)
 
+- **Painterest**
+
+   - Privacy-respecting, anonymous, NoJS-supporting Pinterest frontend. Based on [disinterest](https://codeberg.org/ayuxia/disinterest).
+   - [Official Instance](https://pain.thirtysix.pw) | [Repo](https://codeberg.org/thirtysix/painterest)
+   - [Public Instances](https://codeberg.org/thirtysix/painterest/src/branch/main/instances.json)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/thirtysix/painterest#deployment)
+
 - **Pinless**
 
    - Privacy-focused frontend for Pinterest. No tracking, no exposing your IP address to Pinterest, no JavaScript, no ads & no hassle.
