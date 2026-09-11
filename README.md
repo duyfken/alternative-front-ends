@@ -144,6 +144,14 @@ ___
 
    ⓘ Ripcord is shareware. You can try it without paying, but if you use the Slack features, you'll eventually need to pay up (USD$20).
 
+- **Rufin**
+
+   - Rufin is a powerful, fast and easy to use GTK4/libadwaita music player for local/remote Samba folders and Jellyfin, Emby, Plex, WebDAV and Navidrome/OpenSubsonic music servers. You can bring music from any combination of sources into a single listening session with app-wide playlists and smart playlists. Rufin offers a rich library browsing and management experience while making the most of each source's unique features.
+   - Official Website (N/A) | [Repo](https://github.com/screwys/Rufin)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/screwys/Rufin#installation)
+   - [x] Linux, Mac and Windows
+
 - **Supersonic**
 
    - A lightweight and full-featured cross-platform desktop client for self-hosted Jellyfin and Subsonic API music servers.
@@ -729,6 +737,8 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/apps/details/io.github.hypengw.Qcm)
    - [x] Linux
 
+- **Rufin** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Supersonic** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Switchfin**
@@ -1058,6 +1068,8 @@ Based on ArmCord.
 
 - **Plezy** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Rufin** [(see Multi-service apps section)](#multi-service-apps)
+
 - **Tauon** [(see Multi-service apps section)](#multi-service-apps)
 
 - **Tributary** [(see Multi-service apps section)](#multi-service-apps)
@@ -1279,6 +1291,8 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://www.psysonic.de/downloads/)
    - [x] Linux, Mac and Windows
+
+- **Rufin** [(see Multi-service apps section)](#multi-service-apps)
 
 - **SubTUI**
 
