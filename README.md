@@ -230,6 +230,14 @@ ___
 
 ### YouTube
 
+- **Materialious**
+
+   - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
+   - [Official Website](https://materialio.us/) | [Repo](https://github.com/Materialious/Materialious)
+   - [x] Open Source
+   - [x] [Download for free](https://materialio.us/#download)
+   - [x] Android TV + Android + Linux, Mac and Windows
+
 - **Playlet**
 
    - Playlet is an unofficial YouTube client for Roku 📺
