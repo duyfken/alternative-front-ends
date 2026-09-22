@@ -1354,6 +1354,14 @@ ___
    - [x] [Download for free](https://github.com/polymorphicshade/Tubular/releases)
    - [x] Android
 
+- **TypeType**
+
+   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. Run one private instance, then use it from the responsive web app or the native Android client. Accounts, subscriptions, history, playlists, favorites, watch progress, and settings stay on the instance you control.
+   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/TypeType-Video/TypeType)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
+
 - **Unwatched**
 
    - RSS feed based YouTube video player for iOS, macOS, tvOS.
