@@ -937,8 +937,8 @@ software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b
 
 - **TypeType**
 
-   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. 
-   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/Priveetee/TypeType)
+   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. Run one private instance, then use it from the responsive web app or the native Android client. Accounts, subscriptions, history, playlists, favorites, watch progress, and settings stay on the instance you control.
+   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/TypeType-Video/TypeType)
    - Public Instances (N/A)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
