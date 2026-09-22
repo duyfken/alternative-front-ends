@@ -892,6 +892,14 @@ ___
 
    ⓘ Most YouTube web-based alternative front-ends developers are finding it very difficult to find a way to get their scripts to operate with the counter-measures Google is taking of late, so most do not work. I highly recommend checking out the available mobile and TV alternative front-ends as they are working more reliably at the moment ([though that may change soon "for security reasons"](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)). Go to the top of this page and change the branch to mobile or TV to find them.
 
+- **CloudTube**
+
+   - Alternative Invidious front-end without Javascript. 
+   - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
+
 - **Invidious**
 
    - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
@@ -901,7 +909,15 @@ ___
    - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
    - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
 
-   ⓘ https://materialio.us/ seems to be the only (unofficial) instance working at the time of this update.
+   ⓘ Like most alternative front-ends, Invidious specifically warns users that any public instance that isn't in the official instance list is considered untrustworthy. Use them at your own risk.
+
+- **Materialious**
+
+   - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
+   - [Homepage](https://materialio.us/) | [Repo](https://github.com/Materialious/Materialious)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://materialio.us/#download)
 
 - **Piped**
 
@@ -914,16 +930,13 @@ ___
 
    ⓘ All but one instance is offline (at last check) and there hasn't been any active respository updates (other than translations or dependencies updates) in over 6 months
 
-- **Cloudtube**
+- **TypeType**
 
-   - Alternative Invidious front-end without Javascript. 
-   - [Official Instance](https://tube.cadence.moe) | [Repo](https://sr.ht/~cadence/tube)
+   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. Run one private instance, then use it from the responsive web app or the native Android client. Accounts, subscriptions, history, playlists, favorites, watch progress, and settings stay on the instance you control.
+   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/TypeType-Video/TypeType)
    - Public Instances (N/A)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
-
-   ⓘ ["I don't have much interest in maintaining my own instance of this 
-software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b2-8ed3-176a6feb7892%40disroot.org%3E)
+   - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
 
 - **Viewtube**
 
@@ -934,14 +947,6 @@ software any more"](https://lists.sr.ht/~cadence/tube-devel/%3C9f7e534b-a8d5-45b
    - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
 
    ⓘ Project semi-paused at the moment. Read here: https://github.com/ViewTube/viewtube/discussions/3002
-
-- **TypeType**
-
-   - Privacy-respecting video platform to watch Youtube, BiliBili and NicoNico. Run one private instance, then use it from the responsive web app or the native Android client. Accounts, subscriptions, history, playlists, favorites, watch progress, and settings stay on the instance you control.
-   - [Official Instance](https://watch.typetype.video/) | [Repo](https://github.com/TypeType-Video/TypeType)
-   - Public Instances (N/A)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://typetype-video.github.io/Docs-TypeType/self-hosting/quick-start)
 
 
 ### YouTube Music
