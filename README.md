@@ -1589,6 +1589,14 @@ Based on ArmCord.
 
 - **Grayjay** [(see Multi-service apps section)](#multi-service-apps)
 
+- **Materialious**
+
+   - Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
+   - [Official Website](https://materialio.us/) | [Repo](https://github.com/Materialious/Materialious)
+   - [x] Open Source
+   - [x] [Download for free](https://materialio.us/#download)
+   - [x] Linux, Mac and Windows + Android + Android TV
+
 - **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
 
 - **miniTube** 💰
