@@ -1615,6 +1615,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/namidaco/namida#installation)
    - [x] Linux and Windows + Android
 
+- **OpenTubeX**
+
+   - OpenTubeX is an open-source, highly customisable, privacy-focused YouTube client, forked from FreeTube, that aims to provide the best UX. It is available for Windows 10 and later, macOS 12 and later, and Linux. There are also early WIP Android builds and iOS support is planned.
+   - [Official Website](https://opentubex.org/) | [Repo](https://github.com/OpenTubeX/OpenTubeX)
+   - [x] Open Source
+   - [x] [Download for free](https://opentubex.org/downloads/)
+   - [x] Linux, Mac and Windows + Android
+
 - **Pipeline**
 
    - Pipeline lets you watch and download videos from YouTube and PeerTube, all without needing to navigate through different websites.
