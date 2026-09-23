@@ -609,6 +609,14 @@ ___
 
 ### Search Engines
 
+- **Araa**
+
+   - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
+   - [Official Instance](https://araa.extravi.dev/) | [Repo](https://github.com/Extravi/araa-search)
+   - [Public Instances](https://github.com/Extravi/araa-search#instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://extravi.dev/extravi.github.io.legacy/araa/)
+
 - **4get**
 
    - 4get is a proxy search engine that doesn't suck.
