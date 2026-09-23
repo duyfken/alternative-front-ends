@@ -1330,6 +1330,14 @@ ___
    - [x] [Download for free](https://oss.nonbili.jp/noutube/install/)
    - [x] Android + Linux, Mac and Windows
 
+- **OpenTubeX**
+
+   - OpenTubeX is an open-source, highly customisable, privacy-focused YouTube client, forked from FreeTube, that aims to provide the best UX. It is available for Windows 10 and later, macOS 12 and later, and Linux. There are also early WIP Android builds and iOS support is planned.
+   - [Official Website](https://opentubex.org/) | [Repo](https://github.com/OpenTubeX/OpenTubeX)
+   - [x] Open Source
+   - [x] [Download for free](https://opentubex.org/downloads/)
+   - [x] Android + Linux, Mac and Windows
+
 - **PipePipe**
 
    -  A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili without accounts. NewPipe, but better - browse the most popular streaming platforms throughout the world.
