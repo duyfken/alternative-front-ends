@@ -1519,7 +1519,7 @@ ___
 - **UntrackMe**
 
    - FOSS Android app that redirects to the alternative front-ends of several services. Can also clean tracking parameters.
-   - Official Website (N/A) | [Repo](https://codeberg.org/tom79/UntrackMe) 
+   - [Official Website](https://fedilab.app/projects/untrackme/) | [Repo](https://codeberg.org/tom79/UntrackMe) 
    - [x] Open Source
    - [x] [Download for free](https://codeberg.org/tom79/UntrackMe#download)
    - [x] Android
