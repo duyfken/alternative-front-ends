@@ -904,10 +904,10 @@ ___
 
    - Lightweight YouTube front-end - no tracking, no ads and Javascript is optional.
    - [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious)
-   - [Public Instances](https://docs.invidious.io/instances)
+   - [Public Instances](https://docs.invidious.io/instances/)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
-   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services)
+   - [x] Self-Hostable | [Guide](https://docs.invidious.io/installation/)
+   - [x] Decentralised Options | [I2P](https://docs.invidious.io/instances/#i2p-eepsites) | [Onion](https://docs.invidious.io/instances/#tor-onion-services) | [Yggdrasil](https://docs.invidious.io/instances/#yggdrasil-network)
 
    ⓘ Like most alternative front-ends, Invidious specifically warns users that any public instance that isn't in the official instance list is considered untrustworthy. Use them at your own risk.
 
@@ -956,7 +956,7 @@ ___
 - **BeatBump**
 
    - Privacy-friendly YouTube Music front-end built with Svelte. All data is stored locally on your device. Data synchronization is done using PeerJS, which uses WebRTC for a Peer-to-Peer connection between browsers.
-   - Official Instance (N/A) | [Repo](https://github.com/giwty/Beatbump)
+   - [Official Instance](https://github.com/giwty/Beatbump) | [Repo](https://github.com/giwty/Beatbump)
    - Public Instances (N/A)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/giwty/Beatbump#running-beatbump)
@@ -998,9 +998,9 @@ ___
 - **LibRedirect**
 
    - Maintained fork of Privacy Redirect with new services added and a refreshed UI.
-   - [Official Website](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect)
+   - [Official Website](https://libredirect.codeberg.page/) | [Repo](https://github.com/libredirect/libredirect)
    - [x] Open Source
-   - [x] [Download for free](https://libredirect.github.io/download.html)
+   - [x] [Download for free](https://libredirect.codeberg.page/download.html)
 
 - **Redirector**
 
