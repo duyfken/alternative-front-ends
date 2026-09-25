@@ -843,6 +843,14 @@ Based on ArmCord.
    - [x] [Download for free](https://github.com/GeopJr/Tuba#install)
    - [x] Linux
 
+- **Whalebird**
+
+   - Single-column Fediverse client for desktop, featuring a Slack like UI and many colour themes.
+   - [Official Website](https://whalebird.social/) | [Repo](https://github.com/h3poteto/whalebird-desktop)
+   - [x] Open Source
+   - [x] [Download for free](https://whalebird.social/downloads)
+   - [x] Linux, Mac and Windows
+
 
 ### Matrix
 
@@ -1201,21 +1209,13 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/apps/details/dev.diegovsky.Riff)
    - [x] Linux
 
-- **Spotiqueue**
+- **Spotifast**
 
-   - A terribly simple macOS app for keyboard-based, queue-oriented Spotify use.
-   - Official Website (N/A) | [Repo](https://github.com/toothbrush/Spotiqueue)
+   - Spotify, native and fast. Spotifast is a Spotify client written in Rust with [egui](https://github.com/emilk/egui). It plays music through [librespot](https://github.com/librespot-org/librespot). It typically uses 100–250 MB of RAM, while Spotify's desktop app often uses 600 MB to over 1 GB. It runs on Linux, macOS, and Windows, starts in well under a second, and has no browser engine.
+   - [Official Website](https://spotifast.rocks/) | [Repo](https://github.com/crmne/spotifast)
    - [x] Open Source
-   - [x] [Download for free](https://github.com/toothbrush/Spotiqueue#download-and-install)
-   - [x] Mac
-
-- **Spotube**
-
-   - Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
-   - [Official Website](https://spotube.krtirtho.dev/) | [Repo](https://github.com/KRTirtho/spotube)
-   - [x] Open Source
-   - [x] [Download for free](https://github.com/KRTirtho/spotube#-%EF%B8%8F-installation-guide)
-   - [x] Linux, Mac and Windows + Android
+   - [x] [Download for free](https://spotifast.rocks/download/)
+   - [x] Linux, Mac and Windows
 
 - **spotify-qt**
 
@@ -1232,6 +1232,22 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/Rigellute/spotify-tui#installation)
    - [x] Linux, Mac and Windows
+
+- **Spotiqueue**
+
+   - A terribly simple macOS app for keyboard-based, queue-oriented Spotify use.
+   - Official Website (N/A) | [Repo](https://github.com/toothbrush/Spotiqueue)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/toothbrush/Spotiqueue#download-and-install)
+   - [x] Mac
+
+- **Spotube**
+
+   - Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! 
+   - [Official Website](https://spotube.krtirtho.dev/) | [Repo](https://github.com/team-spotube/spotube)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/team-spotube/spotube#-%EF%B8%8F-installation-guide)
+   - [x] Linux, Mac and Windows + Android
 
 - **Strawberry**
 
@@ -1400,7 +1416,23 @@ Based on ArmCord.
    - [x] [Download for free](https://flathub.org/en/apps/io.github.nokse22.high-tide)
    - [x] Linux
 
+- **hiresTI**
+
+   - hiresTI is a native Linux TIDAL client built for audiophiles, combining high-fidelity playback, rock-solid stability, and a modern GTK4/Libadwaita user experience.
+   - Official Website (N/A) | [Repo](https://github.com/yelanxin/hiresTI)
+   - [x] Open Source
+   - [x] [Download for free](https://github.com/yelanxin/hiresTI#install-prebuilt-packages)
+   - [x] Linux
+
 - **MediaHarbor** [(see Multi-service apps section)](#multi-service-apps)
+
+- **OxiTide**
+
+   - OxiTide is a high-resolution TIDAL player for Linux, macOS and Windows, written in Rust — a GTK4 front-end on Linux, a native SwiftUI front-end on macOS, a native WinUI 3 one on Windows, all on the same playback engine. It is the native successor to hiresTI (Open Source Linux only app) — same bit-perfect playback engine, same USB Rawlink direct-to-DAC output, rebuilt from the ground up with a native Rust UI: faster startup, lower memory, no Python runtime.
+   - [Official Website](https://oxitide.com/) | [Repo](https://github.com/yelanxin/OxiTide)
+   - [ ] Closed Source
+   - [x] [Download for free](https://oxitide.com/#install)
+   - [x] Linux, Mac and Windows
 
 - **Sone**
 
@@ -1532,6 +1564,14 @@ Based on ArmCord.
    - [x] Open Source
    - [x] [Download for free](https://github.com/keshavbhatt/whatsie#install-whatsie-on-linux-desktop)
    - [x] Linux
+
+- **ZapFast**
+
+   - WhatsApp, native and fast. ZapFast is a WhatsApp client written in Rust with [egui](https://github.com/emilk/egui). It uses [whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) for the WhatsApp Web protocol. It runs on Linux, macOS, and Windows, links to your phone as a companion device, and has no browser engine.
+   - [Official Website](https://zapfast.rocks/) | [Repo](https://github.com/crmne/zapfast)
+   - [x] Open Source
+   - [x] [Download for free](https://zapfast.rocks/download/)
+   - [x] Linux, Mac and Windows
 
 - **ZapZap**
 
