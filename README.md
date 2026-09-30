@@ -555,7 +555,7 @@ ___
 
    - Vixipy [vick-see-pie] is a free and open source pixiv frontend. It allows you to use pixiv and enjoy works without worrying about prying eyes.
    - [Official Instance](https://vx.maid.zone/) | [Repo](https://codeberg.org/vixipy/Vixipy)
-   - Public Instances (N/A)
+   - [Public Instances](https://maid.zone/vixipy/instances.html)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://codeberg.org/vixipy/Vixipy/src/branch/main/doc/INSTALL.md)
 
