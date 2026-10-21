@@ -12,7 +12,7 @@ ___
 ⓘ [Redirector](https://github.com/einaregilsson/Redirector) rules based on services provided in this list can be found on both **[Codeberg](https://codeberg.org/duyfken/RedirectorPrivacyAlternatives)** and **[GitHub](https://github.com/duyfken/RedirectorPrivacyAlternatives)**, just like this repository!
 ___
 
-Thanks to **sealzone**, **bg443**, **shaedrich** and **untrusem** for contributing to the expansion of this list!
+Thanks to **jacobwillden**, **kita**, **librecode**, **sealzone**, **bg443**, **shaedrich** and **untrusem** for contributing to the expansion of this list!
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt** and **Solomon1732** for their contributions to https://github.com/digitalblossom/alternative-frontends on which this fork is based!
 
@@ -642,6 +642,14 @@ ___
    - [x] Self-Hostable | [Guide](https://github.com/Ahwxorg/LibreY/tree/main/docs)
    - [x] Decentralised Options | [I2P](https://github.com/Ahwxorg/LibreY/blob/main/instances.json) | [Onion](https://github.com/Ahwxorg/LibreY/blob/main/instances.json)
 
+- **omnisearch**
+
+   - A modern lightweight metasearch engine with a clean design written in C.
+   - Official Instance (N/A) | [Repo](https://codeberg.org/gabrielf/omnisearch)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://codeberg.org/gabrielf/omnisearch#first-setup)
+
 - **SearX**
 
    - Privacy-respecting, self-hostable metasearch engine. Acts as front-end for more than 70 search services.
@@ -844,14 +852,24 @@ ___
 
 ### Twitter
 
-- **Nitter**
+- **Shitter**
 
-   - Lightweight Twitter front-end. No ads, no Javascript, no tracking. RSS support.
-   - Official Instance (N/A) | [Repo](https://github.com/zedeus/nitter)
-   - [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)
+   - A free and open source alternative Twitter front-end focused on privacy and performance. No ads, no Javascript, no tracking. RSS support.
+   - Official Instance (N/A) | [Repo](https://codeberg.org/mv12star/shitter)
+   - [Public Instances](https://codeberg.org/mv12star/shitter/wiki/Instances)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation)
-   - [x] Decentralised Options | [I2P](https://github.com/zedeus/nitter/wiki/Instances#i2p)  | [Onion](https://github.com/zedeus/nitter/wiki/Instances#tor) | [Loki](https://github.com/zedeus/nitter/wiki/Instances#lokinet)
+   - [x] Self-Hostable | [Guide](https://codeberg.org/mv12star/shitter#installation)
+   - [x] Decentralised Options | [[Onion](https://codeberg.org/mv12star/shitter/wiki/Instances#tor-https-download-torproject-org-instances)
+
+   ⓘ Shitter is a fork of [Nitter](https://github.com/zedeus/nitter). Nitter's repo was archived on September 11 2026 at the request of X Corp.
+
+- **Teapot**
+
+   - A privacy-focused Twitter/X frontend written in Rust.
+   - [Official Instance](https://nitter.cf/) | [Repo](https://github.com/amaanq/teapot)
+   - Public Instances (N/A)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/amaanq/teapot)
 
 
 ### Ultimate Guitar
