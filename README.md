@@ -1017,13 +1017,6 @@ ___
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://github.com/cofob/fastside#self-hosting)
 
-- **Farside**
-
-   - Automatically redirects to working instances of alternative front-ends. Helps prevent performance bottlenecks by distributing across instances.
-   - [Official Website](https://farside.link) | [Repo](https://github.com/benbusby/farside)
-   - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://github.com/benbusby/farside#development)
-
 - **Privacy Redirect**
 
    - Browser extension that automatically redirects to the alternative front-ends of several services. Available for Chromium browsers and Firefox.
