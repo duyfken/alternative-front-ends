@@ -19,7 +19,7 @@ A to Z + Tools
 
 [Multi-service apps](#multi-service-apps) • [F-Droid](#f-droid) • [Google Play Store](#google-play-store) • [Jellyfin](#jellyfin) • [Plex](#plex) • [Subsonic/Navidrome](#subsonic-navidrome) • [Twitch](#twitch) • [Youtube](#youtube) • [Tools](#tools)
 
-☰ You can view this contents list and jump between sections via the little menu icon above to the right.
+☰ You can view & use this contents list on GitHub using the <img width="16" height="16" alt="Image" src="https://github.com/user-attachments/assets/968f65f3-bd4d-4767-b7e7-79f864a8d4ba" /> icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt these front-ends.
 ___
