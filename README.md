@@ -20,7 +20,7 @@ A to Z + Tools
 
 [Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Dictionaries](#dictionaries) • [Discord](#discord) • [Facebook](#facebook) • [F-Droid](#f-droid) • [Git](#git) • [Google Play Store](#google-play-store) • [IRC](#irc) • [Jellyfin](#jellyfin) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Misskey](#misskey) • [Nostr](#nostr) • [Reddit](#reddit) • [Shazam](#shazam) • [Signal](#signal) • [SoundCloud](#soundcloud) • [Spotify](#spotify) • [Subsonic/Navidrome](#subsonic-navidrome) • [Telegram](#telegram) • [Translate](#translate) • [Twitch](#twitch) • [Twitter](#twitter) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
-☰ You can view this contents list and jump between sections via the little menu icon above to the right.
+☰ You can view & use this contents list on GitHub using the <img width="16" height="16" alt="Image" src="https://github.com/user-attachments/assets/968f65f3-bd4d-4767-b7e7-79f864a8d4ba" /> icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt or redirect to these front-ends.
 ___
