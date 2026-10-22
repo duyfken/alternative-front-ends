@@ -22,7 +22,7 @@ A to Z + Tools
 
 [Multi-service apps](#multi-service-apps) • [Bluesky](#bluesky) • [Chefkoch](#chefkoch) • [DeviantArt](#deviantart) • [Dictionaries](#dictionaries) • [Facebook](#facebook) • [Fandom](#fandom) • [Genius](#genius) • [GitHub](#github) • [Goodreads](#goodreads) • [IMDb](#imdb) • [Imgur](#imgur) • [Instagram](#instagram) • [Instructables](#instructables) • [Lemmy](#lemmy) • [Mastodon](#mastodon) • [Matrix](#matrix) • [Medium](#medium) • [Nostr](#nostr) • [Odysee](#odysee) • [Pinterest](#pinterest) • [Pixiv](#pixiv) • [Quora](#quora) • [Reddit](#reddit) • [Search Engines](#search-engines) • [SoundCloud](#soundcloud) • [StackOverflow](#stackoverflow) • [Subsonic/Navidrome](#subsonic-navidrome) • [Tiktok](#tiktok) • [Translate](#translate) • [Tumblr](#tumblr) • [Twitch](#twitch) • [Twitter](#twitter) • [Ultimate Guitar](#ultimate-guitar) • [Urban Dictionary](#urban-dictionary) • [Wikipedia](#wikipedia) • [Youtube](#youtube) • [YT Music](#youtube-music) • [Tools](#tools)
 
-☰ You can view & use this contents list on GitHub using the <img alt="list" src="https://github.com/user-attachments/assets/968f65f3-bd4d-4767-b7e7-79f864a8d4ba"> icon above to the right.
+☰ You can view & use this contents list on GitHub using the <img src="https://github.com/user-attachments/assets/968f65f3-bd4d-4767-b7e7-79f864a8d4ba" alt="list"> icon above to the right.
 
 ⓘ Check out the [tools section](#tools) at the bottom to find out how to easily adopt and even self-host.
 ___
