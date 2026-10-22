@@ -977,13 +977,21 @@ ___
 
 - **Viewtube**
 
-   - Privacy-respecting front-end with subscription, watch-progress and recommendation features. 
+   - Privacy-respecting front-end with subscription, watch-progress and recommendation features.
    - [Official Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube)
    - Public Instances (N/A)
    - [x] Open Source
    - [x] Self-Hostable | [Guide](https://viewtube.wiki/installation)
 
    ⓘ Project semi-paused at the moment. Read here: https://github.com/ViewTube/viewtube/discussions/3002
+
+- **Vivid**
+
+   - A privacy focused alternative YouTube frontend inspired by Invidious and Nitter.
+   - [Official Instance](https://vivid.errexe.xyz/) | [Repo](https://github.com/TeamVivid/Vivid)
+   - [Public Instances](https://github.com/TeamVivid/instances)
+   - [x] Open Source
+   - [x] Self-Hostable | [Guide](https://github.com/TeamVivid/Vivid#self-hosting)
 
 
 ### YouTube Music
