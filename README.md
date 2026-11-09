@@ -557,10 +557,10 @@ ___
 - **PixivFE**
 
    - PixivFE is an open-source, self-hostable alternative front-end for pixiv that prioritizes accessibility, privacy, and freedom.
-   - [Official Instance](https://pixiv.perennialte.ch/) | [Repo](https://codeberg.org/PixivFE/PixivFE)
-   - [Public Instances](https://pixivfe-docs.pages.dev/instance-list/)
+   - [Official Instance](https://pixiv.perennialte.ch/) | [Repo](https://gitlab.com/pixivfe/PixivFE)
+   - [Public Instances](https://gitlab.com/pixivfe/PixivFE/-/blob/main/docs/instance-list.md)
    - [x] Open Source
-   - [x] Self-Hostable | [Guide](https://pixivfe-docs.pages.dev/hosting/hosting-pixivfe/)
+   - [x] Self-Hostable | [Guide](https://gitlab.com/pixivfe/PixivFE/-/blob/main/docs/hosting/README.md)
 
 - **Vixipy**
 
